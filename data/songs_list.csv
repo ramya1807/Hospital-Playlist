@@ -1,0 +1,547 @@
+,Unnamed: 0,Unnamed: 0.1,id,songs,song,artist,energy,dance,liveness,valence,tempo,instrumental,acoustic,popularity,genres
+0,5,5,1,New level asap ferg,New Level,A$AP Ferg,0.655,0.526,0.116,0.156,121.127,0.0,0.0566,65.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music', 'underground hip hop']"
+1,9,9,3,Eyes Nose Lips TaeYang,"눈,코,입(Eyes, Nose, Lips)",TAEYANG,0.516,0.631,0.264,0.254,143.77700000000004,0.0,0.738,67.0,"['k-pop', 'korean r&b']"
+2,10,10,3,Me Like Yuh Jay Park,Me Like Yuh,Jay Park,0.831,0.715,0.132,0.805,100.006,3.84e-06,0.223,63.0,"['k-hop', 'k-pop', 'korean pop', 'korean r&b']"
+3,11,11,3,Aquaman Jay Park,Aquaman,Jay Park,0.87,0.6990000000000001,0.0507,0.7290000000000001,96.945,0.0,0.0856,51.0,"['k-hop', 'k-pop', 'korean pop', 'korean r&b']"
+4,12,12,4,Sugar Wanderlust,Sweet Sugar,Wanderlust,0.813,0.302,0.368,0.339,126.965,0.0827,0.255,0.0,"['peruvian indie', 'peruvian rock']"
+5,13,13,4,Blue Jeans Lana Del Ray,Blue Jeans,Piano Tribute Players,0.265,0.7240000000000001,0.063,0.244,117.956,0.846,0.944,6.0,[]
+6,15,15,5,Look on Up Relient K,Look on Up,Relient K,0.383,0.48,0.125,0.265,169.86900000000003,9.59e-06,0.202,38.0,"['canadian ccm', 'ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'neo mellow', 'pop punk', 'pop rock']"
+7,16,16,5,Money and Fame NeedToBreathe,MONEY & FAME,NEEDTOBREATHE,0.8909999999999999,0.5539999999999999,0.0905,0.454,154.012,1.47e-05,0.0686,52.0,"['acoustic pop', 'ccm', 'christian alternative rock', 'christian music', 'christian rock', 'indiecoustica', 'neo mellow', 'pop rock', 'worship']"
+8,17,17,5,Awakening Switchfoot,Awakening,Switchfoot,0.948,0.501,0.128,0.529,125.993,7.240000000000001e-05,0.000509,41.0,"['ccm', 'christian alternative rock', 'christian music', 'christian rock', 'neo mellow', 'pop rock', 'post-grunge', 'worship']"
+9,22,22,7,0 to 100/ The Catch Up Drake,0 To 100 / The Catch Up,Drake,0.7090000000000001,0.7070000000000001,0.274,0.501,89.094,0.0,0.763,75.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+10,27,27,9,Kids in the Dark,Kids In The Dark,All Time Low,0.981,0.519,0.0903,0.773,130.039,0.000155,0.00136,60.0,"['pop punk', 'post-teen pop']"
+11,28,28,9,Hurt,Hurt Feelings,Mac Miller,0.462,0.69,0.113,0.325,157.655,0.00218,0.343,82.0,"['hip hop', 'pop rap', 'rap']"
+12,29,29,9,Angel,raindrops (an angel cried),Ariana Grande,0.231,0.336,0.188,0.429,168.685,0.0,0.942,80.0,"['dance pop', 'pop', 'post-teen pop']"
+13,32,32,10,No One Mothica (Kayge Calypso & DUNN Remix),No One - Kayge Calypso & DUNN Remix,Mothica,0.5710000000000001,0.745,0.371,0.319,129.934,0.0,0.6629999999999999,65.0,"['electropop', 'indie electro-pop', 'indie poptimism', 'vapor soul']"
+14,35,35,11,End of august yanni,The End Of August,Yanni,0.199,0.19,0.127,0.126,153.287,0.8690000000000001,0.943,34.0,"['new age', 'operatic pop']"
+15,36,36,12,Monsoon Tokio Hotel,Monsoon,Tokio Hotel,0.7340000000000001,0.58,0.196,0.175,111.962,0.0,0.0187,45.0,['german pop rock']
+16,37,37,12,Imagine the Fire Hans Zimmer,Imagine the Fire,Hans Zimmer,0.675,0.564,0.118,0.145,102.992,0.767,0.16699999999999998,40.0,"['german soundtrack', 'soundtrack']"
+17,38,38,12,Way Away Yellowcard,Way Away,Yellowcard,0.959,0.35700000000000004,0.0825,0.364,179.644,3.91e-05,6.93e-06,59.0,"['bow pop', 'emo', 'modern rock', 'pop punk', 'pop rock', 'post-grunge']"
+18,40,40,13,Summertime Sadness,Summertime Sadness,Lana Del Rey,0.654,0.565,0.122,0.235,111.968,1.8e-06,0.0542,64.0,"['dance pop', 'pop']"
+19,41,41,13,Sorry Justin Bieber ,Sorry,Justin Bieber,0.768,0.605,0.308,0.414,100.209,0.0,0.0865,81.0,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']"
+20,42,42,14,Peg pugg deep karan,#Peg Pugg,Deep Karan,0.911,0.7190000000000001,0.0592,0.873,83.05799999999998,0.0,0.489,38.0,[]
+21,45,45,15,Arrival of the birds the cinematic orchestra,Arrival of the Birds,The Cinematic Orchestra,0.14300000000000002,0.175,0.0915,0.0662,173.33,0.933,0.937,52.0,"['downtempo', 'ninja', 'nu jazz', 'trip hop']"
+22,50,50,16,Lighthouse Nicky Romero,Lighthouse - Radio Edit,Nicky Romero,0.6990000000000001,0.604,0.341,0.3670000000000001,128.056,0.0,0.0208,44.0,"['big room', 'dance pop', 'deep big room', 'dutch house', 'edm', 'electro house', 'house', 'pop', 'progressive electro house', 'progressive house', 'tropical house']"
+23,53,53,17,used to it future,In America,The Guess Who,0.82,0.363,0.32,0.8490000000000001,75.69800000000002,0.00424,0.0125,36.0,"['album rock', 'blues-rock', 'bubblegum pop', 'classic canadian rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'psychedelic rock', 'rock', 'roots rock', 'soft rock', 'southern rock']"
+24,58,58,19,Famous kanye,Famous,Kanye West,0.741,0.474,0.115,0.402,174.1,0.0,0.0602,76.0,"['pop rap', 'rap']"
+25,60,60,20,You Left Me Croquet Club,You Left Me,Croquet Club,0.405,0.44,0.119,0.174,83.78,0.8759999999999999,0.97,46.0,['progressive house']
+26,61,61,20,Steppin' Out Kaskade,Steppin' Out,Kaskade,0.915,0.7020000000000001,0.163,0.909,128.012,0.0109,0.133,32.0,"['big room', 'chicago house', 'dance pop', 'edm', 'electro house', 'pop', 'progressive electro house', 'progressive house', 'tropical house', 'vocal house']"
+27,62,62,20,Sæglópur Sigur Rós,Sæglópur,Sigur Rós,0.483,0.329,0.498,0.0702,101.332,0.807,0.0433,42.0,"['bow pop', 'chamber pop', 'compositional ambient', 'dream pop', 'ethereal wave', 'icelandic pop', 'icelandic rock', 'indie folk', 'melancholia', 'post-rock']"
+28,64,64,21,Can't Forget You San Holo,Can't Forget You (feat. The Nicholas),San Holo,0.76,0.5529999999999999,0.364,0.213,131.986,0.00772,0.00282,52.0,"['bass trap', 'edm', 'electronic trap', 'pop', 'tropical house']"
+29,67,67,22,Dat $tick Rich Chigga,Dat $tick,Rich Brian,0.508,0.923,0.126,0.168,108.039,1.21e-05,0.104,73.0,"['indonesian hip hop', 'underground hip hop', 'vapor trap']"
+30,68,68,22,Dissolve Absofacto,Dissolve,Absofacto,0.5820000000000001,0.688,0.0663,0.872,85.486,0.000157,0.23,57.0,"['indie psych-pop', 'indie psych-rock', 'shimmer psych']"
+31,70,70,23,11 Blocks Wrabel,11 Blocks,Wrabel,0.711,0.5529999999999999,0.142,0.293,99.515,0.0,0.0216,67.0,"['dance pop', 'electropop', 'indie poptimism', 'modern rock', 'neo mellow', 'pop', 'post-teen pop', 'viral pop']"
+32,71,71,23,Crazier Taylor Swift,Crazier,Taylor Swift,0.544,0.452,0.104,0.158,133.042,5.33e-06,0.0631,58.0,"['dance pop', 'pop', 'post-teen pop']"
+33,72,72,24,Justified A Day to Remember,Justified,A Day To Remember,0.894,0.376,0.105,0.0433,126.287,0.00132,0.000487,50.0,"['metalcore', 'pop punk', 'rap metal', 'screamo']"
+34,73,73,24,Tidal Wave Taking Back Sunday,You Can't Look Back,Taking Back Sunday,0.789,0.6579999999999999,0.0965,0.274,108.012,0.0,0.0298,49.0,"['emo', 'modern rock', 'pop punk', 'pop rock', 'screamo']"
+35,74,74,24,Black Honey Thrice ,Black Honey,Thrice,0.892,0.442,0.0758,0.237,151.914,7.92e-06,0.00267,60.0,"['emo', 'modern rock', 'pop punk', 'post-hardcore', 'screamo']"
+36,75,75,25,Diljit Do You Know,Do You Know,Diljit Dosanjh,0.7959999999999999,0.6970000000000001,0.162,0.312,85.00200000000002,0.0,0.155,51.0,"['bhangra', 'desi', 'desi hip hop', 'filmi', 'indian folk', 'indian pop', 'modern bollywood', 'punjabi', 'sufi']"
+37,76,76,25,Mickey Singh Phone,Phone,Mickey Singh,0.693,0.448,0.0815,0.55,91.561,2.02e-06,0.127,57.0,['desi hip hop']
+38,83,83,27,Deuces Chris Brown ,Deuces,Chris Brown,0.7390000000000001,0.644,0.0772,0.231,74.154,0.0,0.0311,62.0,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']"
+39,85,85,28,Me Too Meghan Trainor,Me Too,Meghan Trainor,0.6940000000000001,0.934,0.478,0.835,123.829,1.2e-06,0.0962,74.0,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b']"
+40,86,86,28,Uptown Funk Mark Ronson ft Bruno Mars,Uptown Funk - Radio Instrumental,Kar Play,0.569,0.899,0.0419,0.516,115.019,0.589,0.000898,10.0,[]
+41,87,87,29,Cold Water By Major Lazer justin bieber,Cold Water (Karaoke Piano Backing Track) [Originally Performed by Major Lazer & Justin Bieber],PianoNest,0.172,0.5670000000000001,0.24,0.198,93.009,0.923,0.993,2.0,[]
+42,88,88,29,Count on me By Bruno Mars,Count On Me - Originally By Bruno Mars,Leopard Powered,0.16,0.569,0.107,0.12,177.96099999999996,0.937,0.976,0.0,[]
+43,90,90,30,Chain Gang Sam Cooke,Chain Gang,Sam Cooke,0.6609999999999999,0.698,0.228,0.8240000000000001,131.808,0.0,0.636,58.0,"['adult standards', 'brill building pop', 'christmas', 'classic soul', 'rock-and-roll', 'soul']"
+44,91,91,30,After Laughter Wendy Rene,After Laughter (Comes Tears) - Wendy Rene,Wendy Rene,0.211,0.428,0.0884,0.402,185.239,5.58e-06,0.182,50.0,"['memphis soul', 'southern soul']"
+45,92,92,30,Put me Thru Anderson Paak,Put Me Thru,Anderson .Paak,0.789,0.732,0.123,0.607,107.978,3.11e-05,0.0459,60.0,"['escape room', 'hip hop', 'indie r&b', 'la indie', 'rap']"
+46,93,93,31,Bombae fuse odg,BomBae,Fuse ODG,0.929,0.852,0.563,0.636,110.679,4.93e-06,0.0614,52.0,"['afrobeats', 'azonto', 'dance pop', 'grime']"
+47,94,94,31,Salute jassi sidhu,Salute,Jassi Sidhu,0.963,0.754,0.0753,0.863,87.97,2.34e-05,0.064,30.0,"['bhangra', 'desi', 'desi hip hop', 'indian pop', 'punjabi']"
+48,96,96,32,A.I. OneRepublic,A.I.,OneRepublic,0.6709999999999999,0.7,0.114,0.246,117.962,0.215,0.0859,52.0,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop quebecois', 'pop rap', 'pop rock']"
+49,97,97,32,Symphony Zeds Dead,Symphony,Zeds Dead,0.7240000000000001,0.498,0.157,0.384,145.908,6.75e-06,0.281,48.0,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap', 'progressive electro house']"
+50,102,102,34,Rhinestone Cowboy Madvillain,Rhinestone Cowboy,Madvillain,0.688,0.312,0.321,0.39,141.7,0.00162,0.298,49.0,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'rap', 'southern hip hop', 'underground hip hop']"
+51,103,103,34,N.Y. State of mind Nas,N.Y. State of Mind,Nas,0.91,0.665,0.227,0.887,84.09899999999998,0.0,0.0394,65.0,"['conscious hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']"
+52,104,104,34,Ultralight Beam Kanye West,Ultralight Beam,Kanye West,0.393,0.596,0.539,0.36,107.425,0.0,0.637,73.0,"['pop rap', 'rap']"
+53,105,105,35,Find me kings of leon,Find Me,Kings of Leon,0.946,0.4,0.155,0.611,161.591,0.853,0.000136,66.0,"['garage rock', 'indie rock', 'modern rock', 'rock']"
+54,106,106,35,Go with the flow the Queens of the stone age,Go With The Flow,Queens of the Stone Age,0.991,0.248,0.8340000000000001,0.398,159.37,0.0462,0.0115,59.0,"['alternative metal', 'alternative rock', 'blues-rock', 'garage rock', 'modern rock', 'neo-psychedelic', 'nu metal', 'post-grunge', 'rock', 'stoner metal', 'stoner rock']"
+55,107,107,35,Bored to death Blink 182,Bored To Death,blink-182,0.966,0.502,0.117,0.638,159.94799999999995,1.56e-06,0.00575,63.0,"['modern rock', 'pop punk', 'punk']"
+56,108,108,36,Breaking the chain Sum 41,Breaking The Chain,Sum 41,0.93,0.5529999999999999,0.0673,0.5379999999999999,123.201,0.0582,0.00034,51.0,"['alternative metal', 'canadian punk', 'nu metal', 'pop punk', 'post-grunge', 'punk']"
+57,109,109,36,Cutting shapes Don Diablo,Cutting Shapes,Don Diablo,0.91,0.6679999999999999,0.0937,0.5770000000000001,125.812,0.0,0.0254,65.0,"['big room', 'dance pop', 'deep big room', 'edm', 'electro house', 'pop', 'progressive electro house', 'progressive house', 'tropical house']"
+58,110,110,36,Middle DJ snake,Middle,DJ Snake,0.701,0.586,0.055,0.254,104.957,0.0,0.0203,79.0,"['dance pop', 'edm', 'electronic trap', 'pop', 'tropical house']"
+59,112,112,37,shameless the weeknd,Shameless,The Weeknd,0.562,0.603,0.109,0.244,100.038,0.0,0.146,70.0,"['canadian pop', 'pop', 'rap']"
+60,113,113,37,dark times the weeknd,Dark Times,The Weeknd,0.403,0.501,0.124,0.27,132.608,1.1e-05,0.114,72.0,"['canadian pop', 'pop', 'rap']"
+61,114,114,38,Someday The Strokes,Someday,The Strokes,0.52,0.5379999999999999,0.3670000000000001,0.6779999999999999,106.031,0.0,0.00425,69.0,"['alternative rock', 'garage rock', 'indie rock', 'modern rock', 'permanent wave', 'rock']"
+62,117,117,39,Perfect Illusion Lady Gaga,Perfect Illusion,Lady Gaga,0.855,0.625,0.35700000000000004,0.6679999999999999,124.977,0.0,0.0013800000000000002,71.0,"['dance pop', 'pop', 'post-teen pop']"
+63,118,118,39,Alive Sia,Alive,Sia,0.762,0.508,0.108,0.444,99.963,0.000122,0.254,68.0,"['australian dance', 'australian pop', 'dance pop', 'pop']"
+64,119,119,39,All I ask Adele,All I Ask,Adele,0.28300000000000003,0.5870000000000001,0.149,0.343,141.961,0.0,0.882,70.0,['pop']
+65,123,123,41,Treacherous  Taylor Swift ,Treacherous,Taylor Swift,0.609,0.7,0.14400000000000002,0.392,109.98,5.25e-06,0.0852,57.0,"['dance pop', 'pop', 'post-teen pop']"
+66,124,124,41,Carolina in my mind James Taylor ,Carolina In My Mind,James Taylor,0.267,0.579,0.132,0.353,74.899,0.000562,0.118,67.0,"['adult standards', 'folk', 'folk rock', 'mellow gold', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']"
+67,125,125,41,Wild horses Rolling Stones ,Wild Horses,The Rolling Stones,0.404,0.371,0.0805,0.153,74.38600000000002,0.004529999999999999,0.669,69.0,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']"
+68,126,126,42,Low Trace,Low,TRACE,0.809,0.499,0.224,0.168,140.03799999999998,0.416,0.00459,58.0,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']"
+69,127,127,42,Final Song Mo,Final Song,MØ,0.672,0.695,0.0756,0.245,104.988,8.44e-05,0.014,74.0,"['dance pop', 'danish pop', 'electropop', 'pop', 'tropical house']"
+70,130,130,43,Come Together The Beatles,Come Together - Remastered 2009,The Beatles,0.376,0.5329999999999999,0.0926,0.187,165.007,0.248,0.0302,79.0,"['british invasion', 'merseybeat', 'psychedelic rock', 'rock']"
+71,131,131,43,Closer The Chainsmokers and Halsey,The Chainsmokers ft. Halsey CLOSER,EL3ctro & NU3tro,0.244,0.466,0.118,0.199,95.022,0.0129,0.00593,20.0,[]
+72,135,135,45,Howling at the Moon Milow,Howling At The Moon,Milow,0.664,0.711,0.235,0.579,127.834,0.0,0.204,47.0,"['belgian pop', 'belgian rock', 'pop quebecois']"
+73,136,136,45,If I were sorry Frans,If I Were Sorry,Frans,0.612,0.735,0.103,0.395,105.056,4.120000000000001e-05,0.289,59.0,['classical performance']
+74,137,137,45,Human RAG 'N' BONE MAN,Human,Rag'n'Bone Man,0.7070000000000001,0.602,0.165,0.5539999999999999,75.09,0.0,0.393,82.0,['neo soul']
+75,140,140,46,I miss you blink 182,I Miss You,blink-182,0.778,0.659,0.0841,0.623,110.022,6.79e-06,0.00136,71.0,"['modern rock', 'pop punk', 'punk']"
+76,143,143,47,Far East movement freal luv,Freal Luv (feat. Chanyeol & Tinashe),Far East Movement,0.8140000000000001,0.644,0.213,0.52,145.041,1.59e-06,0.16399999999999998,54.0,"['dance pop', 'edm', 'pop', 'pop rap']"
+77,144,144,48,No Money Galantis,No Money,Galantis,0.916,0.6709999999999999,0.24,0.8029999999999999,126.01,0.00762,0.0282,75.0,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'pop rap', 'tropical house']"
+78,147,147,49,Rambo Bryson Tiller,Rambo,Bryson Tiller,0.562,0.635,0.11,0.28800000000000003,181.014,2.01e-06,0.309,64.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']"
+79,148,148,49,The Zone The Weeknd,The Zone,The Weeknd,0.521,0.619,0.101,0.254,139.886,0.000542,0.26,64.0,"['canadian pop', 'pop', 'rap']"
+80,149,149,49,Saint Pablo Kanye West,Saint Pablo,Kanye West,0.768,0.502,0.204,0.403,168.218,0.0,0.273,67.0,"['pop rap', 'rap']"
+81,150,150,50,Foundations Kate Nash,Foundations - Full Version,Kate Nash,0.91,0.551,0.0866,0.8690000000000001,84.425,0.0,0.0994,47.0,"['anti-folk', 'electropop', 'folk-pop', 'lilith', 'piano rock']"
+82,151,151,50,Signed Sealed Delivered (I'm Yours) Stevie Wonder,"Signed, Sealed, Delivered (I'm Yours)",Stevie Wonder,0.784,0.6459999999999999,0.061,0.8190000000000001,108.84,0.0,0.00495,65.0,"['funk', 'motown', 'quiet storm', 'soul']"
+83,152,152,50,Pine for Cedars Dan Mangan,Pine For Cedars,Dan Mangan,0.26,0.476,0.103,0.214,110.258,2.7300000000000006e-05,0.645,29.0,"['canadian folk', 'canadian indie', 'deep new americana', 'vancouver indie']"
+84,153,153,51,Arirang Song So Hee,Jeongseon Arirang,So Hee Song,0.197,0.259,0.103,0.0393,66.29899999999999,7.34e-06,0.858,13.0,[]
+85,154,154,51,Four seasons Vivaldi ,"The Four Seasons, Violin Concerto No. 2 in G Minor, RV 315 ""Summer"": III. Presto",Antonio Vivaldi,0.465,0.333,0.29100000000000004,0.6409999999999999,169.952,0.797,0.8370000000000001,62.0,"['baroque', 'classical', 'early music', 'italian baroque']"
+86,155,155,51,No more Loco,No More Sorrow,Rotterdam Ska-Jazz Foundation,0.857,0.551,0.136,0.894,83.89,0.8740000000000001,0.0616,24.0,"['ska', 'ska jazz', 'ska revival', 'traditional ska']"
+87,156,156,52,Supernova Mr Hudson/Kanye West,Supernova (Kanye West Feat Mr. Hudson Cover),Scott Chapman,0.627,0.7509999999999999,0.257,0.6970000000000001,123.968,0.0,0.0604,4.0,['viral pop']
+88,157,157,52,Flight Tristam ,Flight,Tristam,0.755,0.434,0.106,0.217,87.383,2.57e-05,0.0415,70.0,"['brostep', 'catstep', 'chillstep', 'complextro', 'edm', 'electro house', 'tracestep']"
+89,159,159,53,Show you the light MARC,Show You the Light (feat. Efraim Leo),MARC,0.735,0.579,0.238,0.228,105.022,0.0,0.00415,45.0,"['latin', 'latin pop', 'salsa', 'tropical']"
+90,161,161,53,Wanted Trevor Guthrie,Wanted,Trevor Guthrie,0.8740000000000001,0.625,0.119,0.456,128.042,1.2e-06,0.304,37.0,[]
+91,162,162,54,Drama Roy Woods,Drama (feat. Drake),Roy Woods,0.362,0.7090000000000001,0.109,0.113,122.043,0.0,0.157,74.0,"['canadian hip hop', 'hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'trap soul']"
+92,166,166,55,Carry On Memphis May Fire,Carry On,Memphis May Fire,0.974,0.294,0.21,0.131,143.842,0.0,0.00032900000000000003,48.0,"['melodic metalcore', 'metalcore', 'post-screamo', 'rap metal', 'screamo']"
+93,167,167,55,Air Is Free Johnossi,Air Is Free,Johnossi,0.893,0.385,0.123,0.484,173.78400000000005,7.31e-06,0.0147,51.0,"['swedish alternative rock', 'swedish indie rock', 'swedish pop']"
+94,168,168,56,Blame Diplo,Blame,Zeds Dead,0.777,0.602,0.0854,0.482,140.026,0.000367,0.226,61.0,"['bass trap', 'brostep', 'edm', 'electro house', 'electronic trap', 'progressive electro house']"
+95,170,170,56,Winter Vivaldi,Winter 1,Max Richter,0.616,0.485,0.305,0.483,149.03799999999995,0.892,0.738,44.0,"['compositional ambient', 'focus', 'sleep', 'soundtrack']"
+96,171,171,57,The Power of Love Céline Dion,The Power of Love,Céline Dion,0.519,0.546,0.24,0.247,140.054,0.00046,0.36,68.0,"['canadian pop', 'dance pop']"
+97,172,172,57,Hooked On Your Love Aretha Franklin,Hooked On Your Love,Aretha Franklin,0.35100000000000003,0.8029999999999999,0.371,0.4970000000000001,109.785,0.0,0.183,31.0,"['christmas', 'classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']"
+98,173,173,57,Cake By The Ocean DNCE,Cake By The Ocean,DNCE,0.765,0.774,0.0373,0.917,119.001,0.0,0.156,81.0,"['dance pop', 'pop', 'post-teen pop', 'tropical house']"
+99,175,175,58,Drops of Jupiter Train,Drops of Jupiter,Train,0.64,0.468,0.154,0.499,79.297,0.0,0.154,78.0,"['neo mellow', 'pop', 'pop quebecois', 'pop rap', 'pop rock']"
+100,176,176,58,Les amours dévouées Cœur de Pirate,Les amours dévouées,Cœur De Pirate,0.482,0.5870000000000001,0.314,0.7070000000000001,117.227,2.84e-06,0.713,35.0,['french pop']
+101,177,177,59,With You Chris Brown,With You,Chris Brown,0.696,0.659,0.13,0.665,86.001,0.0,0.14300000000000002,69.0,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']"
+102,178,178,59,Man! I Feel Like A Woman Shania Twain,Man! I Feel Like A Woman!,Shania Twain,0.899,0.6779999999999999,0.34700000000000003,0.757,124.944,0.0,0.637,75.0,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn', 'dance pop']"
+103,180,180,60,Fireproof Coleman Hell,Fireproof,Coleman Hell,0.774,0.6920000000000001,0.141,0.7709999999999999,128.033,1.02e-05,0.0149,47.0,"['canadian pop', 'indie poptimism', 'modern alternative rock', 'modern rock']"
+104,182,182,60,Jubel Klingande,Jubel - Original Mix,Klingande,0.476,0.698,0.0542,0.181,124.986,0.238,0.185,64.0,"['deep house', 'deep tropical house', 'edm', 'tropical house']"
+105,183,183,61,The ends travis scott,the ends,Travis Scott,0.737,0.585,0.0904,0.0497,171.85299999999995,0.0,0.0661,66.0,"['pop', 'pop rap', 'rap']"
+106,187,187,62,Hype Drake ,Hype,Drake,0.608,0.789,0.368,0.271,129.958,0.0,0.0244,65.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+107,191,191,63,Don't Wanna Know Maroon 5 and Kendrick,"Don't Wanna Know - 11 Hearts Mix Maroon 5 , Kendrick Lamar Tribute",Amin Cruiser,0.575,0.599,0.0937,0.213,120.913,0.253,0.6659999999999999,1.0,[]
+108,192,192,64,Cross our Bones Crown the Empire,Cross Our Bones,Crown The Empire,0.938,0.544,0.21,0.503,125.079,0.0,0.000242,41.0,"['metalcore', 'post-post-hardcore', 'post-screamo', 'screamo', 'trancecore']"
+109,193,193,64,Aftermath Crown the Empire,Aftermath,Crown The Empire,0.988,0.494,0.362,0.327,135.012,8.96e-06,0.000576,46.0,"['metalcore', 'post-post-hardcore', 'post-screamo', 'screamo', 'trancecore']"
+110,194,194,64,Colourblind Hands like Houses,Colourblind,Hands Like Houses,0.949,0.557,0.34,0.397,111.008,0.000418,0.000282,58.0,"['metalcore', 'post-screamo', 'progressive post-hardcore', 'screamo']"
+111,195,195,65,Close Nick Jonas,Close,Nick Jonas,0.623,0.653,0.14400000000000002,0.401,123.999,0.0,0.253,72.0,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'viral pop']"
+112,196,196,65,Mistletoe Justin Bieber,Mistletoe,Justin Bieber,0.56,0.6579999999999999,0.0794,0.8540000000000001,161.994,0.0,0.498,65.0,"['canadian pop', 'dance pop', 'pop', 'post-teen pop']"
+113,198,198,66,Lost Luu Breeze,Lost,Luu Breeze,0.586,0.802,0.0906,0.563,91.03,0.000304,0.0203,10.0,"['canadian hip hop', 'trap soul']"
+114,199,199,66,KUNGS this girl,This Girl (Kungs Vs. Cookin' On 3 Burners) - Kungs Vs. Cookin' On 3 Burners,Kungs,0.7170000000000001,0.792,0.226,0.466,121.985,3.59e-05,0.0927,80.0,"['deep tropical house', 'edm', 'pop', 'tropical house']"
+115,200,200,66,Love me now john legend,Love Me Now,John Legend,0.762,0.488,0.0763,0.7090000000000001,123.889,0.0,0.591,69.0,"['neo soul', 'pop', 'r&b', 'urban contemporary']"
+116,201,201,67,La bicicleta Carlos Vives ,La Bicicleta,Carlos Vives,0.944,0.745,0.333,0.951,179.991,1.48e-06,0.21,77.0,"['champeta', 'colombian pop', 'dance pop', 'latin', 'latin pop', 'tropical', 'vallenato']"
+117,202,202,67,Summertime Vybz Kartel,Summertime,Vybz Kartel,0.7140000000000001,0.489,0.309,0.5760000000000001,199.073,0.0,0.274,41.0,"['dancehall', 'reggae fusion']"
+118,203,203,67,La carretera Prince Royce ,La Carretera,Prince Royce,0.6859999999999999,0.747,0.1,0.913,122.005,0.0,0.5870000000000001,67.0,"['bachata', 'dance pop', 'latin', 'latin hip hop', 'latin pop', 'pop', 'tropical']"
+119,204,204,68,Evil woman ELO,Evil Woman,Electric Light Orchestra,0.6559999999999999,0.6970000000000001,0.221,0.8809999999999999,119.632,4.66e-05,0.43,62.0,"['album rock', 'art rock', 'bow pop', 'classic rock', 'folk rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']"
+120,208,208,69,This ones for you zara larson,This One's for You (Originally Performed by David Guetta Ft. Zara Larson) - Karaoke Version,Hit The Button Karaoke,0.589,0.622,0.0671,0.44,109.977,0.123,0.0054,6.0,['karaoke']
+121,209,209,69,Stereo love ,Stereo Love - Radio Edit,Edward Maya,0.726,0.775,0.11,0.206,126.999,0.0235,0.0399,59.0,[]
+122,210,210,70,Ballin PnB Rock,Ballin,PnB Rock,0.721,0.62,0.155,0.28600000000000003,169.919,0.0,0.00189,60.0,"['pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+123,211,211,70,Send it Austin Mahone,Send It (feat. Rich Homie Quan),Austin Mahone,0.585,0.737,0.115,0.693,147.064,0.0,0.18600000000000005,67.0,"['dance pop', 'pop', 'post-teen pop', 'teen pop', 'viral pop']"
+124,212,212,70,Fleek PnB Rock,Fleek,PnB Rock,0.7829999999999999,0.586,0.318,0.461,87.469,0.0,0.125,55.0,"['pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+125,213,213,71,Do You Mind DJ Khaled ,Do You Mind,DJ Khaled,0.5479999999999999,0.412,0.181,0.17600000000000002,81.293,0.0,0.0173,64.0,"['dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']"
+126,216,216,72,Shake It out Florence and the Machine,Shake It Out,Florence + The Machine,0.8079999999999999,0.519,0.105,0.251,107.505,0.0,0.0126,65.0,"['chamber pop', 'folk-pop', 'pop']"
+127,217,217,72,Bad 4 Us Superfruit ,Bad 4 Us,Superfruit,0.856,0.722,0.156,0.905,110.012,0.0,0.0175,47.0,"['dance pop', 'indie poptimism', 'strut']"
+128,218,218,72,Disney Frozen Soundtrack ,"Let It Go (From ""Disney: Frozen"")",Melinda Keen,0.447,0.5479999999999999,0.366,0.235,136.886,0.0,0.523,0.0,[]
+129,219,219,73,Juke Jam Chance the Rapper,Juke Jam (feat. Justin Bieber & Towkio),Chance the Rapper,0.397,0.505,0.0853,0.5579999999999999,95.063,0.0,0.716,76.0,"['conscious hip hop', 'hip hop', 'pop', 'pop rap', 'rap']"
+130,220,220,73,Smoke Break Chance the Rapper,Smoke Break (feat. Future),Chance the Rapper,0.453,0.705,0.14300000000000002,0.28300000000000003,124.942,0.0,0.257,70.0,"['conscious hip hop', 'hip hop', 'pop', 'pop rap', 'rap']"
+131,223,223,74,Style Taylor Swift ,Style,Taylor Swift,0.7859999999999999,0.598,0.117,0.456,95.021,0.00143,0.00256,65.0,"['dance pop', 'pop', 'post-teen pop']"
+132,227,227,75,Idk,Idk Love,Jeremy Zucker,0.43,0.579,0.13,0.5379999999999999,123.999,0.0,0.787,65.0,"['dance pop', 'electropop', 'indie poptimism', 'pop']"
+133,228,228,76,Picturing Love July Talk,Picturing Love,July Talk,0.685,0.71,0.0899,0.384,116.355,5.09e-05,0.0301,40.0,"['canadian indie', 'toronto indie']"
+134,231,231,77,Cut your teeth Kygo Remix,Cut Your Teeth - Kygo Remix,Kyla La Grange,0.6779999999999999,0.674,0.051,0.465,99.985,0.222,0.59,66.0,"['metropopolis', 'shimmer pop', 'tropical house']"
+135,232,232,77,On & On Cartoon,On & On,Cartoon,0.696,0.458,0.123,0.418,174.141,0.0,0.285,74.0,['tracestep']
+136,233,233,77,Firestone Kygo,Firestone (feat. Conrad Sewell),Kygo,0.652,0.486,0.077,0.391,113.055,6.63e-05,0.408,79.0,"['edm', 'pop', 'tropical house']"
+137,234,234,78,Too late rayven justice ,Too Late,Rayven Justice,0.445,0.494,0.134,0.239,127.469,0.0,0.326,38.0,"['deep pop r&b', 'slow game', 'west coast trap']"
+138,235,235,78,Simge yanki,Yankı,Simge,0.7759999999999999,0.5920000000000001,0.4370000000000001,0.416,90.963,4.39e-06,0.00674,46.0,"['deep turkish pop', 'persian pop', 'turkish pop']"
+139,237,237,79,Lindsey Stirling First Light,First Light,Lindsey Stirling,0.631,0.5760000000000001,0.115,0.211,101.987,0.00459,0.0498,49.0,['bow pop']
+140,240,240,80,Coordinate Travis scott,coordinate,Travis Scott,0.6579999999999999,0.688,0.335,0.28,75.615,1.89e-06,0.105,67.0,"['pop', 'pop rap', 'rap']"
+141,243,243,81,Sun & moon Above and beyond,Sun & Moon,Above & Beyond,0.522,0.691,0.125,0.187,133.995,0.0141,0.0216,49.0,"['edm', 'progressive house', 'progressive trance', 'trance', 'uplifting trance']"
+142,244,244,81,Song from a secret garden Rolf Lovland,Song From A Secret Garden,Rolf Løvland,0.303,0.226,0.162,0.094,66.727,0.878,0.897,54.0,[]
+143,246,246,82,Safari J Balvin,Safari,J Balvin,0.675,0.6890000000000001,0.115,0.604,180.065,3.17e-06,0.531,75.0,"['latin', 'reggaeton']"
+144,248,248,82,Hasta El Amanecer Nicky Jam,Hasta el Amanecer,Nicky Jam,0.608,0.8320000000000001,0.0761,0.589,94.013,0.0,0.282,75.0,"['latin', 'latin hip hop', 'pop', 'reggaeton', 'tropical']"
+145,249,249,83,Rush over me Seven Lions,Rush Over Me,Seven Lions,0.753,0.441,0.027000000000000003,0.254,135.015,0.0,0.0701,63.0,"['big room', 'brostep', 'catstep', 'chillstep', 'edm', 'electro house', 'electronic trap', 'pop']"
+146,250,250,83,Take My Breath Away alesso,Take My Breath Away,Alesso,0.899,0.544,0.35100000000000003,0.524,120.967,0.0,0.0663,63.0,"['big room', 'dance pop', 'edm', 'electro house', 'pop', 'progressive electro house', 'tropical house']"
+147,251,251,83,Pjanoo Pryda,Pjanoo - Radio Edit,Eric Prydz,0.8740000000000001,0.604,0.112,0.835,125.99,0.812,0.000563,68.0,"['big room', 'disco house', 'edm', 'electro house', 'house', 'progressive electro house', 'progressive house', 'vocal house']"
+148,253,253,84,Seven million lil uzi vert feat. Future,Seven Million (feat. Future),Lil Uzi Vert,0.629,0.8859999999999999,0.121,0.487,158.002,7.66e-06,0.051,67.0,"['rap', 'trap music']"
+149,259,259,86,Panda,Panda,Desiigner,0.748,0.72,0.369,0.246,145.22,0.0,0.0235,73.0,"['dwn trap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+150,260,260,86,Lean on me,Lean on Me,Bill Withers,0.22,0.619,0.124,0.423,75.16,1.19e-05,0.782,69.0,"['funk', 'motown', 'quiet storm', 'soul']"
+151,261,261,87,Never say never basement jaxx ,Never Say Never,Basement Jaxx,0.789,0.753,0.325,0.65,126.008,0.111,0.007790000000000002,38.0,"['alternative dance', 'big beat', 'disco house', 'electronic', 'new rave', 'vocal house']"
+152,262,262,87,Location khalid,Location,Khalid,0.449,0.736,0.0898,0.326,80.126,0.000162,0.33,86.0,"['indie r&b', 'pop', 'rap']"
+153,263,263,87,Right here Dave b ,Right Here,Dave B.,0.41,0.6509999999999999,0.108,0.12,128.049,0.0,0.368,52.0,"['indie r&b', 'trap soul', 'underground hip hop']"
+154,265,265,88,Say it feat. Tove Lo flume,Say It (feat. Tove Lo),Flume,0.532,0.598,0.0617,0.261,74.96300000000002,3.22e-06,0.0668,67.0,"['australian alternative rock', 'australian dance', 'downtempo', 'edm', 'pop']"
+155,266,266,88,Grow Up Paramore,Grow Up,Paramore,0.884,0.5379999999999999,0.0947,0.426,92.999,2.08e-06,0.0135,56.0,"['candy pop', 'emo', 'pixie', 'pop emo', 'pop punk']"
+156,268,268,89,Too Good,Too Good At Goodbyes,Sam Smith,0.373,0.6609999999999999,0.177,0.523,91.5,0.0,0.615,81.0,['pop']
+157,270,270,90,Oasis Kygo,Oasis (feat. Foxes),Kygo,0.67,0.606,0.354,0.212,119.96,6.6e-06,0.138,62.0,"['edm', 'pop', 'tropical house']"
+158,271,271,90,Raging Kygo,Raging,Kygo,0.6890000000000001,0.55,0.207,0.408,99.904,0.0,0.0498,67.0,"['edm', 'pop', 'tropical house']"
+159,275,275,91,Gas panic oasis,Gas Panic!,Oasis,0.677,0.365,0.403,0.261,147.906,0.0033,0.0111,34.0,"['britpop', 'madchester', 'permanent wave', 'rock']"
+160,277,277,92,United we dance vicetone,United We Dance - Vicetone Edit,Vicetone,0.65,0.594,0.267,0.106,126.0,0.0142,0.014,59.0,"['big room', 'brostep', 'catstep', 'dance pop', 'deep big room', 'edm', 'electro house', 'pop', 'progressive electro house', 'tracestep', 'tropical house']"
+161,278,278,92,By your side jonas blue feat raye,By Your Side (Originally Performed By Jonas Blue Feat. RAYE),New Tribute Kings,0.722,0.768,0.0807,0.29,122.975,0.0056700000000000006,0.387,3.0,[]
+162,281,281,93,Rendez Vous Inna,Rendez Vous,INNA,0.799,0.903,0.0545,0.825,119.0,0.00126,0.32,35.0,['dance pop']
+163,283,283,94,Heartburn Wafia,Heartburn - Jarami Remix,Wafia,0.513,0.647,0.393,0.445,103.077,0.0,0.509,53.0,"['aussietronica', 'deep australian indie', 'electropop']"
+164,284,284,94,Bottle of Jack Mikey Wax,Bottle of Jack - Achtabahn Deep House Remix,Mikey Wax,0.54,0.8,0.531,0.529,119.007,4.03e-06,0.00917,39.0,[]
+165,287,287,95,scars james bay,Scars,James Bay,0.451,0.424,0.11,0.212,129.768,0.00048,0.09,51.0,"['neo mellow', 'pop']"
+166,290,290,96,Can you hear the voice ,Can You Hear The Voice Of Buddha,Voice of Buddha,0.8540000000000001,0.5539999999999999,0.336,0.532,130.97799999999998,0.0785,0.00611,6.0,[]
+167,291,291,97,Lay Low Crystal Fighters,Lay Low,Crystal Fighters,0.746,0.322,0.682,0.508,99.407,3.44e-05,0.0525,25.0,"['alternative dance', 'indietronica', 'new rave']"
+168,292,292,97,It's Strange Louis the Child,It's Strange (feat. K.Flay),Louis The Child,0.4920000000000001,0.8370000000000001,0.102,0.417,85.95100000000002,0.0401,0.371,68.0,"['edm', 'electropop', 'indie poptimism', 'pop', 'tropical house']"
+169,293,293,97,Limelight Just A Gent,Limelight (NGHTMRE Remix),Just A Gent,0.5760000000000001,0.574,0.208,0.287,145.094,0.00147,0.0579,65.0,"['aussietronica', 'bass trap', 'brostep', 'edm', 'electronic trap', 'tropical pop edm', 'vapor soul', 'vapor twitch']"
+170,298,298,99,Feel Invincible Skillet,Feel Invincible,Skillet,0.8859999999999999,0.603,0.26,0.395,126.025,0.0,0.00045,72.0,"['alternative metal', 'christian alternative rock', 'christian music', 'christian rock', 'nu metal', 'post-grunge', 'rap metal', 'rap rock']"
+171,301,301,100,Close,Close Friends (Lil Baby & Gunna),Lil Baby,0.585,0.665,0.0789,0.6579999999999999,158.953,0.0,0.044,81.0,"['pop rap', 'rap', 'trap music']"
+172,302,302,100,I'm sexy and i know it,I'm Sexy and I Know It,Tim Yacket,0.931,0.753,0.5720000000000001,0.713,129.976,0.0,0.0429,40.0,[]
+173,304,304,101,Bungalow Scott Helman,Bungalow,Scott Helman,0.828,0.7070000000000001,0.107,0.5379999999999999,119.984,1.77e-06,0.0415,50.0,['canadian folk']
+174,305,305,101,Cross My Mind A R I Z O N A ,Cross My Mind Pt. 2 (feat. Kiiara),A R I Z O N A,0.805,0.632,0.161,0.429,93.009,5.83e-05,0.0646,69.0,"['dance pop', 'deep tropical house', 'electropop', 'indie poptimism', 'pop', 'tropical house']"
+175,306,306,102,Never Wrong Disturbed,Never Wrong,Disturbed,0.996,0.629,0.314,0.348,104.974,0.000284,0.000931,54.0,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']"
+176,307,307,102,Animals Maroon 5,Animals,Maroon 5,0.742,0.279,0.593,0.328,189.868,0.0,0.000185,74.0,['pop']
+177,308,308,102,Pulse of the Dead Parasite Inc,The Pulse of the Dead,Parasite Inc.,0.932,0.529,0.203,0.237,130.05,0.106,7.7e-05,43.0,['melodic death metal']
+178,309,309,103,That Girl Justin Timberlake,That Girl,Justin Timberlake,0.354,0.728,0.132,0.636,132.762,0.0,0.76,48.0,"['dance pop', 'pop']"
+179,310,310,103,$ Ty Dolla $ign,Psycho (feat. Ty Dolla $ign),Post Malone,0.5589999999999999,0.7390000000000001,0.112,0.439,140.124,0.0,0.58,92.0,"['pop', 'rap']"
+180,311,311,103,3 Wayz Ty Dolla $ign,3 Wayz (feat. Travis Scott),Ty Dolla $ign,0.405,0.778,0.104,0.0605,120.981,0.0,0.112,54.0,"['hip hop', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']"
+181,312,312,104,Intro The XX,Intro,The xx,0.778,0.617,0.128,0.152,100.363,0.925,0.459,67.0,"['downtempo', 'dream pop', 'indietronica', 'pop']"
+182,313,313,104,Conversation 16 The National,Conversation 16,The National,0.851,0.5539999999999999,0.24,0.513,116.976,0.913,0.611,48.0,"['chamber pop', 'folk-pop', 'indie folk', 'indie pop', 'indie rock', 'modern rock', 'stomp and holler']"
+183,314,314,104,Queen of Peace Florence + The Machine,Queen Of Peace,Florence + The Machine,0.894,0.47,0.0903,0.311,126.03,5.400000000000001e-05,0.0322,53.0,"['chamber pop', 'folk-pop', 'pop']"
+184,316,316,105,Star boy,Waiting for a Star to Fall,Boy Meets Girl,0.7340000000000001,0.6559999999999999,0.301,0.591,116.246,9.990000000000003e-05,0.0896,59.0,['new wave pop']
+185,318,318,106,Lay Me Down Sam Smith,Lay Me Down,Sam Smith,0.19,0.468,0.107,0.326,125.319,0.0,0.919,79.0,['pop']
+186,319,319,106,Grenade Bruno Mars,Grenade,Bruno Mars,0.5579999999999999,0.706,0.118,0.227,110.443,0.0,0.146,75.0,"['pop', 'post-teen pop']"
+187,320,320,106,Love Me Like You Do Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,0.606,0.262,0.125,0.275,189.857,0.0,0.247,71.0,"['dance pop', 'edm', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'r&b', 'tropical house']"
+188,321,321,107,The 12th Hour Sirenia,The 12th Hour,Sirenia,0.925,0.282,0.0711,0.265,180.125,0.0129,0.000172,20.0,"['gothic metal', 'gothic symphonic metal', 'norwegian metal', 'progressive metal', 'symphonic metal']"
+189,322,322,107,Elan Nightwish,Élan,Nightwish,0.5820000000000001,0.575,0.139,0.297,127.94,0.000178,0.0103,57.0,"['finnish metal', 'gothic metal', 'gothic symphonic metal', 'power metal', 'progressive metal', 'symphonic metal']"
+190,323,323,107,Colder End of the Dream,Colder,End of the Dream,0.813,0.147,0.156,0.227,191.837,0.0199,0.000286,40.0,"['gothic symphonic metal', 'symphonic metal', 'symphonic power metal']"
+191,324,324,108,Faster Amaranthe,Faster,Amaranthe,0.981,0.508,0.411,0.302,150.026,0.0,5.7200000000000015e-05,45.0,"['gothic symphonic metal', 'melodic death metal', 'power metal', 'progressive metal']"
+192,325,325,108,Stay Sad Alice Said,Stay,Sad Alice Said,0.949,0.475,0.343,0.28800000000000003,139.975,0.00533,0.000439,18.0,"['fallen angel', 'gothic symphonic metal', 'symphonic metal']"
+193,326,326,108,The Aging Man The Great Discord,The Aging Man,The Great Discord,0.823,0.505,0.35200000000000004,0.228,150.001,0.406,0.000817,28.0,[]
+194,327,327,109,Like This DJ Henry X & Wizkid,Like This - AIRIETJA & Sonny Bass Remix,DJ Henry X,0.7509999999999999,0.499,0.154,0.6970000000000001,116.491,6.11e-05,0.261,26.0,[]
+195,328,328,109,Girl Can't Be Herself Alicia Keys,Girl Can't Be Herself,Alicia Keys,0.848,0.696,0.0918,0.871,88.64,0.0,0.00238,36.0,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']"
+196,331,331,110,Seven years Lukas Graham,7 Years,Lukas Graham,0.473,0.765,0.391,0.34,119.992,0.0,0.287,82.0,['danish pop']
+197,333,333,111,Beibs In The Trap Travis Scott,beibs in the trap,Travis Scott,0.571,0.743,0.291,0.495,119.054,0.0,0.24,71.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+198,338,338,112,This promise Sam tsui,This Promise,Sam Tsui,0.701,0.51,0.168,0.135,120.989,0.0,0.466,40.0,"['channel pop', 'post-teen pop', 'viral pop']"
+199,339,339,113,Cheat Codes & Dante Klein Let Me Hold You ,Let Me Hold You (Turn Me On) - Lost Stories & Crossnaders Remix Edit,Cheat Codes,0.659,0.612,0.0538,0.417,98.015,0.0,0.0933,38.0,"['dance pop', 'edm', 'pop', 'post-teen pop', 'tropical house']"
+200,340,340,113,MØ Kamikaze,Kamikaze,MØ,0.878,0.6629999999999999,0.328,0.7040000000000001,158.035,3.39e-06,0.0368,65.0,"['dance pop', 'danish pop', 'electropop', 'pop', 'tropical house']"
+201,342,342,114,Holy,Holy,King Princess,0.585,0.614,0.0948,0.211,169.905,0.000129,0.134,71.0,"['dance pop', 'electropop', 'pop']"
+202,344,344,114,I got a pea,I Got a Pea,Bryant Oden,0.473,0.8809999999999999,0.097,0.97,126.482,0.000112,0.28600000000000003,22.0,"[""children's music""]"
+203,346,346,115,Get Busy Sean Paul,Get Busy,Sean Paul,0.8240000000000001,0.735,0.158,0.726,100.202,0.0,0.615,67.0,"['dance pop', 'dancehall', 'pop', 'pop rap']"
+204,350,350,116,Run Wild Coleman Hell,Run Wild,Coleman Hell,0.847,0.662,0.145,0.441,127.986,3.81e-06,0.00264,32.0,"['canadian pop', 'indie poptimism', 'modern alternative rock', 'modern rock']"
+205,354,354,118,My Way Calvin Harris,My Way,Calvin Harris,0.913,0.8190000000000001,0.161,0.536,119.989,3.72e-05,0.0935,80.0,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house']"
+206,355,355,118,The Ocean Mike Perry,The Ocean (feat. Shy Martin),Mike Perry,0.575,0.632,0.104,0.188,90.037,1.81e-06,0.0225,78.0,"['dance pop', 'deep pop edm', 'deep tropical house', 'edm', 'electro house', 'pop', 'tropical house']"
+207,357,357,119,Stormbending Devin Townsend Project,Stormbending,Devin Townsend Project,0.898,0.414,0.418,0.217,113.986,0.578,9.37e-05,45.0,"['alternative metal', 'canadian metal', 'djent', 'jazz metal', 'progressive metal', 'vancouver metal']"
+208,358,358,119,Lune Periphery,Lune,Periphery,0.851,0.488,0.0943,0.337,134.99,0.0005009999999999999,0.0020800000000000003,43.0,"['djent', 'jazz metal', 'melodic metalcore', 'progressive metal']"
+209,359,359,119,Dancers to a Discordant System Meshuggah,Dancers To A Discordant System,Meshuggah,0.996,0.255,0.181,0.142,93.633,0.902,2.4100000000000006e-05,38.0,"['alternative metal', 'death metal', 'djent', 'groove metal', 'jazz metal', 'metal', 'nu metal', 'progressive metal', 'swedish metal', 'technical death metal']"
+210,361,361,120,Treat You Better Shawn Mendes,Treat You Better,Shawn Mendes,0.8190000000000001,0.444,0.107,0.747,82.695,0.0,0.106,85.0,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']"
+211,363,363,121,Savage Mode,X (feat. Future),21 Savage,0.413,0.835,0.101,0.111,149.004,0.00133,0.373,78.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+212,365,365,121,Dip Dip,Dip,Tyga,0.562,0.877,0.0933,0.376,99.977,0.0,0.0152,82.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+213,366,366,122,Not Nice PARTYNEXTDOOR,Not Nice,PARTYNEXTDOOR,0.496,0.598,0.12,0.725,128.06,0.00132,0.0253,69.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'urban contemporary']"
+214,372,372,124,Shahzoda Ayrilamiz ,Ayrilamiz,Shahzoda,0.7879999999999999,0.6970000000000001,0.123,0.5579999999999999,105.997,3.24e-05,0.00688,17.0,['uzbek pop']
+215,373,373,124,beethoven moonlight sonata,"Sonata No. 14 ""Moonlight"" in C-Sharp Minor"", Op. 27 No. 2: I. Adagio sostenuto",Ludwig van Beethoven,0.00527,0.184,0.173,0.151,170.612,0.887,0.995,68.0,"['classical', 'classical era', 'early romantic era']"
+216,376,376,125,Fast cars ,Fast Cars And Freedom,Rascal Flatts,0.8,0.617,0.179,0.634,117.955,3.19e-05,0.0172,58.0,"['contemporary country', 'country', 'country road', 'modern country rock']"
+217,377,377,125,Into the fire ,Into The Fire,Asking Alexandria,0.965,0.378,0.28,0.303,175.043,0.000686,0.00017,65.0,"['melodic metalcore', 'metalcore', 'rap metal', 'screamo', 'trancecore']"
+218,379,379,126,Only u partynextdoor ,Only U,PARTYNEXTDOOR,0.786,0.37,0.243,0.756,65.568,0.0,0.306,53.0,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']"
+219,381,381,127,Don't Like.1 Kanye West Chief Keef Pusha T Big Sean JadaKiss,Don't Like.1,Kanye West,0.628,0.6679999999999999,0.145,0.621,131.88,0.0,0.00822,64.0,"['pop rap', 'rap']"
+220,382,382,127,Send It Up Kanye West,Send It Up,Kanye West,0.547,0.698,0.328,0.404,93.003,6.34e-05,0.3,60.0,"['pop rap', 'rap']"
+221,383,383,127,I Am A God Kanye West,I Am A God,Kanye West,0.5379999999999999,0.516,0.163,0.294,112.053,0.000805,0.0341,62.0,"['pop rap', 'rap']"
+222,384,384,128,Ocean Drive Duke Dumont,Ocean Drive,Duke Dumont,0.718,0.6859999999999999,0.119,0.557,115.026,0.0007030000000000001,0.006370000000000001,76.0,"['dance pop', 'deep groove house', 'destroy techno', 'disco house', 'edm', 'house', 'pop', 'progressive house', 'tropical house']"
+223,385,385,128,The Way You Want Me Lucky Rose,The Way You Want Me,Lucky Rose,0.634,0.6509999999999999,0.0694,0.343,114.108,1.63e-06,0.21,49.0,[]
+224,386,386,128,Electric Love Borns,Electric Love,BØRNS,0.797,0.611,0.26,0.518,120.041,0.00137,0.00543,76.0,"['dance pop', 'electropop', 'indie pop', 'indie poptimism', 'indie r&b', 'modern rock', 'pop']"
+225,387,387,129,Can I Be Him? James Arthur,Can I Be Him,James Arthur,0.5429999999999999,0.696,0.0939,0.479,107.969,0.0,0.308,79.0,"['dance pop', 'neo mellow', 'pop', 'post-teen pop', 'talent show']"
+226,388,388,129,Say You Wont Let Go James Arthur,Say You Won't Let Go,James Arthur,0.557,0.358,0.0902,0.494,85.04299999999998,0.0,0.695,85.0,"['dance pop', 'neo mellow', 'pop', 'post-teen pop', 'talent show']"
+227,389,389,129,Satisfied Hamilton the Musical,Satisfied,Twinkle Twinkle Little Rock Star,0.271,0.531,0.0699,0.07,110.029,0.265,0.926,11.0,['sleep']
+228,390,390,130,Someone like you Adele,Someone Like You,Adele,0.33,0.5589999999999999,0.0975,0.285,135.109,0.0,0.892,79.0,['pop']
+229,391,391,130,Unfaithful Rihanna,Unfaithful,Rihanna,0.391,0.588,0.227,0.349,144.069,0.0,0.8390000000000001,74.0,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']"
+230,392,392,130,Say my name Beyonce,Say My Name - Live,Beyoncé,0.871,0.503,0.823,0.448,137.164,0.0,0.306,48.0,"['dance pop', 'pop', 'post-teen pop', 'r&b']"
+231,399,399,133,Deadmau5 Arguru (EDXs 5un5hine Remix),Arguru - EDX's 5un5hine Remix,deadmau5,0.602,0.778,0.0738,0.664,127.998,0.901,0.00119,16.0,"['big room', 'edm', 'electro house', 'progressive house']"
+232,400,400,133,Feed Me & Tasha Baxter Ebb & Flow,Ebb & Flow,Feed Me,0.8690000000000001,0.605,0.0986,0.36,140.032,0.00479,0.0309,29.0,"['brostep', 'catstep', 'complextro', 'edm', 'electro house', 'filthstep']"
+233,401,401,133,Posij Empty Lungs,Empty Lungs,Posij,0.758,0.8109999999999999,0.163,0.491,139.94,0.7709999999999999,0.0015,11.0,[]
+234,402,402,134,Whistle for the Choir The Fratellis,Whistle For The Choir,The Fratellis,0.6859999999999999,0.579,0.0876,0.7609999999999999,131.634,0.0,0.0591,51.0,"['alternative rock', 'garage rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']"
+235,404,404,134,Skinny Love Bon Iver,Skinny Love,Bon Iver,0.263,0.593,0.127,0.109,76.37899999999998,5.36e-06,0.8440000000000001,73.0,"['chamber pop', 'folk-pop', 'indie folk', 'indie pop', 'melancholia', 'slow core', 'stomp and holler']"
+236,405,405,135,what a feeling one direction,What a Feeling,One Direction,0.8690000000000001,0.6779999999999999,0.0593,0.882,123.964,0.0,0.149,63.0,"['boy band', 'dance pop', 'pop', 'post-teen pop', 'talent show']"
+237,406,406,135,fairly local twenty one pilots,Fairly Local,Twenty One Pilots,0.723,0.715,0.084,0.479,114.985,8.57e-05,0.0396,72.0,"['pop punk', 'rock']"
+238,407,407,135,touch troye sivan,Touch,Troye Sivan,0.588,0.506,0.125,0.269,78.158,0.000769,0.0114,56.0,"['dance pop', 'electropop', 'pop', 'post-teen pop', 'viral pop']"
+239,409,409,136,Sorry Not Sorry Bryson Tiller,Sorry Not Sorry,Bryson Tiller,0.608,0.664,0.225,0.262,97.933,0.0,0.0477,68.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']"
+240,410,410,136,Goosebumps Travis Scott,goosebumps,Travis Scott,0.728,0.841,0.149,0.43,130.049,0.0,0.0847,87.0,"['pop', 'pop rap', 'rap']"
+241,411,411,137,coco ot genasis,CoCo,O.T. Genasis,0.628,0.8859999999999999,0.31,0.17800000000000002,119.906,1.15e-05,0.00215,66.0,"['dwn trap', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+242,412,412,137,all eyes on me tupac,All Eyes on Me,Muslim,0.7340000000000001,0.782,0.252,0.64,93.196,0.0,0.0571,19.0,"['arabic hip hop', 'gnawa', 'rai', 'rif']"
+243,415,415,138,Beats So Lonely Charlie Sexton,Beat's So Lonely,Charlie Sexton,0.8759999999999999,0.542,0.054000000000000006,0.557,156.058,5.1e-05,0.0353,34.0,[]
+244,416,416,138,Light Years Pearl Jam,Light Years,Pearl Jam,0.726,0.388,0.213,0.746,205.07,0.113,0.0447,46.0,"['alternative rock', 'grunge', 'permanent wave', 'post-grunge', 'rock']"
+245,417,417,139,Haze Amber Run,Haze,Amber Run,0.126,0.504,0.14400000000000002,0.307,84.22399999999998,0.0,0.652,41.0,"['indie anthem-folk', 'indie folk', 'modern alternative rock', 'modern rock']"
+246,418,418,139,Autumn Tree Milo Greene,Autumn Tree,Milo Greene,0.222,0.232,0.081,0.0471,81.832,0.0,0.7709999999999999,46.0,"['chamber pop', 'indie folk', 'indie pop', 'la indie', 'metropopolis', 'shimmer pop', 'stomp and holler']"
+247,419,419,139,Don't Wait Jon Bryant,Don't Wait,Jon Bryant,0.28300000000000003,0.602,0.213,0.219,126.915,1.09e-06,0.747,35.0,"['acoustic pop', 'canadian folk', 'chamber pop', 'indie anthem-folk', 'indie folk', 'indiecoustica']"
+248,420,420,140,Human Christina perri,human,Christina Perri,0.489,0.439,0.114,0.253,143.808,0.000643,0.132,72.0,"['dance pop', 'neo mellow', 'pop', 'post-teen pop', 'viral pop']"
+249,421,421,140,Bless the broken road Rascal flatts,Bless The Broken Road,Rascal Flatts,0.433,0.599,0.17800000000000002,0.384,135.94799999999998,8.99e-05,0.693,69.0,"['contemporary country', 'country', 'country road', 'modern country rock']"
+250,422,422,140,House of the rising sun the animals,House Of The Rising Sun,The Animals,0.584,0.295,0.0996,0.228,117.2,0.218,0.000385,71.0,"['album rock', 'blues-rock', 'british invasion', 'classic rock', 'folk rock', 'hard rock', 'protopunk', 'psychedelic rock', 'rock', 'rock-and-roll']"
+251,426,426,142,Forever Starts Today Tim Halperin ,Forever Starts Today,Tim Halperin,0.527,0.463,0.197,0.0424,85.035,0.00563,0.36,49.0,"['acoustic pop', 'indiecoustica', 'neo mellow']"
+252,427,427,142,A Thousand Miles Vanessa Carlton ,A Thousand Miles,Vanessa Carlton,0.825,0.56,0.161,0.268,94.931,0.0,0.32299999999999995,78.0,"['dance pop', 'folk-pop', 'lilith', 'neo mellow', 'piano rock', 'pop rock']"
+253,428,428,142,Perfect Strangers Jonas Blue ft. JP Cooper,Perfect Strangers - Jonas Blue Ft. Jp Cooper Tribute,Andres Espinosa,0.564,0.75,0.054000000000000006,0.747,118.012,0.000148,0.13699999999999998,11.0,[]
+254,429,429,143,I Wanna Prove to You The Lemon Twigs,I Wanna Prove to You,The Lemon Twigs,0.677,0.392,0.16,0.377,94.213,1.13e-05,0.465,53.0,[]
+255,430,430,143,Garbage Brain Bloody Knees,Garbage Brain,Bloody Knees,0.475,0.264,0.109,0.0857,120.465,0.0295,0.0477,15.0,"['alt-indie rock', 'modern alternative rock']"
+256,431,431,143,Soft Power Arcade Fire,Soft Power,Arcade Fire,0.5670000000000001,0.31,0.536,0.0865,79.905,0.112,0.0264,35.0,"['alternative rock', 'canadian indie', 'chamber pop', 'garage rock', 'indie folk', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave', 'permanent wave', 'rock']"
+257,433,433,144,If you're going through hell Rodney atkins,Watching You,Rodney Atkins,0.848,0.625,0.23,0.716,137.993,0.0,0.105,68.0,"['contemporary country', 'country', 'country road', 'modern country rock', 'redneck']"
+258,434,434,144,Stronger beer,Stronger Beer,Tim Hicks,0.5379999999999999,0.7120000000000001,0.7979999999999999,0.677,93.001,0.0,0.301,37.0,['canadian country']
+259,437,437,145,Circadian rhythm silversun pickups,Circadian Rhythm (Last Dance),Silversun Pickups,0.586,0.693,0.362,0.459,127.967,0.0133,0.0667,53.0,"['alternative metal', 'alternative rock', 'dance-punk', 'garage rock', 'indie pop', 'indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'post-grunge', 'rock']"
+260,439,439,146,Adventure of a lifetime Coldplay,Adventure Of A Lifetime,Coldplay,0.924,0.638,0.149,0.529,111.995,0.000173,0.00205,78.0,"['permanent wave', 'pop']"
+261,440,440,146,It can happen to you Chris smith ,It Can Happen To You,Chris Smith,0.5660000000000001,0.8,0.158,0.674,93.017,0.000297,0.416,0.0,[]
+262,441,441,147,Ivy Frank Ocean,Ivy,Frank Ocean,0.388,0.5670000000000001,0.248,0.452,116.362,0.000309,0.782,77.0,"['hip hop', 'indie r&b', 'lgbtq+ hip hop', 'neo soul', 'pop', 'rap']"
+263,443,443,147,Nikes Frank Ocean,Nikes,Frank Ocean,0.394,0.5429999999999999,0.108,0.118,137.811,0.000239,0.695,74.0,"['hip hop', 'indie r&b', 'lgbtq+ hip hop', 'neo soul', 'pop', 'rap']"
+264,444,444,148,solo frank ocean,Solo,Frank Ocean,0.287,0.444,0.161,0.246,124.027,2.82e-06,0.8490000000000001,71.0,"['hip hop', 'indie r&b', 'lgbtq+ hip hop', 'neo soul', 'pop', 'rap']"
+265,446,446,148,did it on em nicki minaj,Did It On 'Em - Originally By Nicki Minaj (Karaoke / Instrumental),HOT 100,0.55,0.7190000000000001,0.146,0.16899999999999998,155.988,0.665,0.00787,5.0,['fake']
+266,447,447,149,She Don't Ella Mai ,She Don't (feat. Ty Dolla $Ign),Ella Mai,0.478,0.65,0.177,0.147,99.979,0.0,0.268,77.0,"['dance pop', 'indie r&b', 'pop', 'r&b', 'uk contemporary r&b', 'urban contemporary']"
+267,451,451,150,Pink Lemonade  Watsky,Pink Lemonade,Watsky,0.743,0.511,0.0764,0.511,88.536,5.18e-06,0.243,45.0,"['abstract hip hop', 'comic', 'indie pop rap', 'pop rap']"
+268,452,452,150,This is How I Disappear  My Chemical Romance,This Is How I Disappear,My Chemical Romance,0.983,0.242,0.303,0.301,163.366,4.4299999999999986e-05,5.08e-05,60.0,"['emo', 'pop punk']"
+269,453,453,151,Take Care ,The Motto,Drake,0.442,0.7659999999999999,0.111,0.39,201.8,6.12e-05,0.000107,77.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+270,456,456,152,Lights EMBRZ ,Lights,EMBRZ,0.612,0.6920000000000001,0.0831,0.152,99.998,0.927,0.428,36.0,"['indie poptimism', 'vapor soul']"
+271,457,457,152,This Town Niall Horan (Tiesto Remix),This Town - Tiёsto Remix,Niall Horan,0.736,0.7390000000000001,0.294,0.163,119.992,0.000443,0.0016600000000000002,53.0,"['dance pop', 'pop', 'post-teen pop']"
+272,459,459,153,Chasing Cars ,Chasing Cars,Snow Patrol,0.5920000000000001,0.563,0.132,0.136,104.016,5.08e-05,0.209,79.0,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock', 'rock']"
+273,461,461,153,beer money kip moore,Beer Money,Kip Moore,0.805,0.745,0.13,0.765,126.065,1.06e-06,0.0223,58.0,"['contemporary country', 'country', 'country road', 'modern country rock']"
+274,463,463,154,The Greatest Sia,The Greatest,Sia,0.725,0.6679999999999999,0.0561,0.7290000000000001,191.944,0.000479,0.0102,78.0,"['australian dance', 'australian pop', 'dance pop', 'pop']"
+275,464,464,154,Slow Dancing in a Burning Room John Mayer,Slow Dancing in a Burning Room,John Mayer,0.361,0.6679999999999999,0.0805,0.28800000000000003,134.15,0.00506,0.573,78.0,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']"
+276,466,466,155,Don't Run PARTYNEXTDOOR,Don't Run,PARTYNEXTDOOR,0.414,0.409,0.655,0.211,102.348,0.00048,0.369,52.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'urban contemporary']"
+277,469,469,156,no shopping drake,No Shopping,French Montana,0.491,0.895,0.14300000000000002,0.249,83.505,0.0009880000000000002,0.0144,58.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+278,470,470,156,wicked future,Wicked,Future,0.679,0.718,0.385,0.205,157.97,0.0104,0.00191,65.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+279,471,471,157,King Kunta Kendrick Lamar,King Kunta,Kendrick Lamar,0.657,0.884,0.154,0.489,107.059,0.0,0.00589,76.0,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']"
+280,472,472,157,Twenty Eight The Weeknd ,Twenty Eight,The Weeknd,0.633,0.639,0.111,0.243,129.996,0.000218,0.574,65.0,"['canadian pop', 'pop', 'rap']"
+281,474,474,158,Bumper cars Alex and Sierra ,Bumper Cars,Alex & Sierra,0.274,0.428,0.102,0.17600000000000002,145.067,0.0,0.805,64.0,"['australian pop', 'dance pop', 'neo mellow', 'pop', 'post-teen pop', 'viral pop']"
+282,475,475,158,Another love tom odell,Another Love,Tom Odell,0.537,0.445,0.0941,0.131,122.764,1.6e-05,0.695,57.0,"['indie folk', 'neo mellow', 'pop']"
+283,476,476,158,Rise up Andra Day,Rise Up,Andra Day,0.316,0.398,0.295,0.174,118.582,0.0,0.805,76.0,['r&b']
+284,478,478,159,Do Like That Korede Bello,Do Like That,Korede Bello,0.366,0.812,0.0793,0.659,114.093,0.0,0.36,64.0,"['afrobeats', 'afropop', 'azontobeats', 'nigerian hip hop']"
+285,482,482,160,Switch Roy woods ,Switch,Roy Woods,0.406,0.6709999999999999,0.11,0.409,91.04,0.000324,0.321,54.0,"['canadian hip hop', 'hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'trap soul']"
+286,485,485,161,Cool Girl Tove Lo,Cool Girl,Tove Lo,0.6940000000000001,0.674,0.0752,0.203,101.993,7.17e-06,0.313,71.0,"['dance pop', 'electropop', 'metropopolis', 'pop', 'post-teen pop', 'swedish electropop', 'swedish pop', 'swedish synthpop', 'tropical house']"
+287,487,487,162,TT Twice,TT,TWICE,0.853,0.708,0.399,0.399,129.946,0.000173,0.0525,71.0,['k-pop']
+288,488,488,162,Blood Sweat and Tears BTS,Blood Sweat & Tears,BTS,0.885,0.583,0.35700000000000004,0.601,92.959,0.0,0.0244,78.0,['k-pop']
+289,490,490,163,Sneakin (feat. 21 Savage) Drake,Sneakin' (In the Style of Drake (feat. 21 Savage)),2017 Top Hit Karaoke,0.5670000000000001,0.619,0.116,0.363,169.96599999999995,0.914,0.0248,10.0,['karaoke']
+290,491,491,163,Starboy (feat. Daft Punk) The Weeknd,Starboy - Electro Tribute the Weeknd Feat Daft Punk,Hilmer Rose,0.76,0.653,0.199,0.7290000000000001,116.009,0.0766,0.0704,6.0,[]
+291,493,493,164,That's Not Me (Feat. JME) Skepta ,That's Not Me (Karaoke Version) [Originally Performed by Skepta feat. Jme] - No Backing Vocals,Backing Force,0.7759999999999999,0.954,0.0716,0.595,138.961,0.6659999999999999,0.36,0.0,[]
+292,494,494,164,Deja Vu Post Malone and Justin Bieber ,Deja Vu (Originally Performed by Post Malone & Justin Bieber) - Instrumental Version,Karaoke Pro,0.428,0.64,0.14,0.608,133.996,0.91,0.122,5.0,['karaoke']
+293,497,497,165,shout out to my ex little mix ,Shout Out to My Ex,Little Mix,0.747,0.773,0.11,0.8,126.014,8.23e-06,0.0239,81.0,"['dance pop', 'girl group', 'pop', 'post-teen pop', 'r&b', 'talent show']"
+294,498,498,166,Kryptonite 3 Doors Down,Kryptonite,3 Doors Down,0.865,0.545,0.168,0.5429999999999999,99.01,1.12e-05,0.006640000000000001,79.0,"['alternative metal', 'nu metal', 'pop punk', 'pop rock', 'post-grunge', 'rap metal']"
+295,500,500,166,Smile and Wave Headstones,Smile and Wave,Headstones,0.6759999999999999,0.615,0.173,0.8590000000000001,121.046,0.006520000000000001,0.0373,14.0,"['canadian indie', 'canadian rock']"
+296,502,502,167,Love on the Brain Rihanna,Love On The Brain,Rihanna,0.637,0.509,0.0789,0.378,172.006,1.08e-05,0.0717,81.0,"['barbadian pop', 'dance pop', 'pop', 'pop rap', 'urban contemporary']"
+297,503,503,167,Party Favors Tinashe,Party Favors,Tinashe,0.4920000000000001,0.654,0.14400000000000002,0.185,94.992,0.0006940000000000001,0.0307,55.0,"['dance pop', 'deep pop r&b', 'indie r&b', 'metropopolis', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'urban contemporary']"
+298,504,504,168,Work From Home Fifth Harmony,Work from Home,Fifth Harmony,0.585,0.8029999999999999,0.0644,0.593,105.017,3.94e-06,0.103,82.0,"['dance pop', 'electropop', 'girl group', 'pop', 'post-teen pop', 'talent show']"
+299,505,505,168,Hello Adele,Hello,Adele,0.451,0.481,0.0872,0.289,157.966,0.0,0.336,74.0,['pop']
+300,506,506,168,Cheap Thrills Sia,Cheap Thrills,Sia,0.698,0.628,0.0907,0.732,89.976,0.00143,0.0472,76.0,"['australian dance', 'australian pop', 'dance pop', 'pop']"
+301,507,507,169,libra intervals,Libra,Intervals,0.929,0.312,0.578,0.443,170.017,0.8390000000000001,0.000465,47.0,"['djent', 'instrumental rock', 'jazz metal']"
+302,508,508,169,falling apart  papa roach,Falling Apart,Papa Roach,0.942,0.528,0.344,0.421,110.058,0.0,8.26e-05,65.0,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'rap metal', 'rap rock']"
+303,509,509,169,breath breaking benjamin,Breath,Breaking Benjamin,0.8690000000000001,0.35100000000000003,0.0886,0.355,182.811,0.000206,0.00014,62.0,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock']"
+304,510,510,170,Muddy Waters LP,Muddy Waters,LP,0.484,0.509,0.308,0.249,125.0,3.41e-06,0.394,63.0,['indie rock']
+305,511,511,170,Everybody wants to rule the world Tears for Fears,Everybody Wants To Rule The World,Tears For Fears,0.8,0.638,0.113,0.569,112.055,0.005529999999999999,0.3720000000000001,82.0,"['art rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'soft rock', 'synthpop']"
+306,512,512,170,Yoga Janelle Monae ft Jidenna,Yoga (Made Popular By Janelle Monae ft. Jidenna) [Karaoke Version],Party Tyme Karaoke,0.385,0.779,0.191,0.54,129.98,0.669,0.0697,0.0,['karaoke']
+307,513,513,171,Avicii the nights,The Nights,Avicii,0.835,0.527,0.249,0.654,125.983,0.0,0.0166,80.0,"['big room', 'edm']"
+308,515,515,171,keith urban blue aint your color,Blue Ain't Your Color,Keith Urban,0.417,0.6859999999999999,0.0844,0.451,82.40700000000002,1.79e-06,0.606,72.0,"['australian country', 'contemporary country', 'country', 'country road']"
+309,519,519,173,Beautiful Freakshow Dean Brody,Beautiful Freakshow (feat. Shevy Price),Dean Brody,0.649,0.578,0.113,0.18600000000000005,133.03,5.76e-05,0.0231,42.0,"['canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+310,520,520,173,Unwell Matchbox 20,Unwell - Remastered Version,Matchbox Twenty,0.7929999999999999,0.442,0.328,0.4370000000000001,80.985,0.0,0.0456,63.0,"['neo mellow', 'pop rock', 'post-grunge']"
+311,521,521,173,Ahead a Century Tragically Hip,Ahead By A Century,The Tragically Hip,0.5579999999999999,0.759,0.102,0.366,126.783,0.00743,0.0271,41.0,"['canadian indie', 'canadian rock', 'deep new americana']"
+312,523,523,174,"21 Savage ""No Heart"" ",No Heart,21 Savage,0.444,0.906,0.173,0.6779999999999999,140.063,6.440000000000001e-05,0.136,75.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+313,524,524,174,Pose Rihanna ,Pose,Rihanna,0.84,0.684,0.155,0.7440000000000001,145.905,0.000223,0.211,50.0,"['dance pop', 'pop', 'post-teen pop', 'r&b', 'urban contemporary']"
+314,526,526,175,Thinking Out Loud Ed Sheeran,Thinking Out Loud,Ed Sheeran,0.445,0.7809999999999999,0.184,0.591,78.998,0.0,0.474,86.0,['pop']
+315,529,529,176,Never be like you Flume,Never Be Like You (feat. Kai),Flume,0.557,0.444,0.152,0.29600000000000004,115.058,0.0,0.453,71.0,"['australian alternative rock', 'australian dance', 'downtempo', 'edm', 'pop']"
+316,531,531,177,Maria Maria Santana,Maria Maria - Radio Mix,Santana,0.601,0.777,0.0348,0.68,97.911,0.00201,0.0406,70.0,"['blues-rock', 'classic rock', 'rock']"
+317,533,533,177,Black Beatles Rae Sremmurd,Black Beatles,Rae Sremmurd,0.632,0.794,0.128,0.355,145.92600000000004,0.0,0.142,79.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+318,534,534,178,Midnight Moon Oh Wonder,Midnight Moon,Oh Wonder,0.48,0.685,0.133,0.657,142.972,0.00828,0.632,54.0,"['electropop', 'indie poptimism', 'indie r&b', 'modern rock', 'pop']"
+319,535,535,178,Basement Party MAX,Basement Party,MAX,0.954,0.773,0.0805,0.6859999999999999,112.031,0.0,0.0574,44.0,"['dance pop', 'pop', 'post-teen pop', 'viral pop']"
+320,536,536,178,Don't Look Back Ben Phipps,Don't Look Back,Ben Phipps,0.359,0.779,0.0883,0.133,114.009,0.0376,0.8059999999999999,39.0,[]
+321,537,537,179,Glawio com truise ,Glawio,Com Truise,0.608,0.603,0.255,0.14400000000000002,175.959,0.551,0.134,40.0,"['chillwave', 'future funk', 'indietronica', 'retro electro', 'vaporwave', 'wonky']"
+322,538,538,179,Cherub rock smashing pumpkins ,Cherub Rock - Remastered 2011,The Smashing Pumpkins,0.867,0.382,0.196,0.453,87.309,0.581,5.91e-06,62.0,"['alternative metal', 'alternative rock', 'modern rock', 'nu metal', 'permanent wave', 'pop rock', 'post-grunge', 'rock']"
+323,539,539,179,Get dark the zolas ,Get Dark,The Zolas,0.644,0.69,0.196,0.66,103.053,0.0,0.408,34.0,"['canadian indie', 'vancouver indie']"
+324,540,540,180,Adele when we were young ,When We Were Young,Adele,0.594,0.381,0.0925,0.273,143.86,0.0,0.348,74.0,['pop']
+325,544,544,181,Lost in Hollywood System of a Down,Lost In Hollywood,System Of A Down,0.797,0.295,0.125,0.107,150.30100000000004,0.000427,0.598,67.0,"['alternative metal', 'nu metal', 'post-grunge', 'rock']"
+326,546,546,182,Closer Chainsmokers,Closer,The Chainsmokers,0.524,0.748,0.111,0.6609999999999999,95.01,0.0,0.414,88.0,"['edm', 'electropop', 'pop', 'tropical house']"
+327,547,547,182,Power Kanye West,POWER,Kanye West,0.915,0.5429999999999999,0.7440000000000001,0.5770000000000001,153.998,0.0,0.0162,80.0,"['pop rap', 'rap']"
+328,548,548,182,We Don't Talk Anymore Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,0.563,0.728,0.179,0.35200000000000004,100.017,0.0,0.621,72.0,"['dance pop', 'pop', 'post-teen pop', 'viral pop']"
+329,550,550,183,Too Good Drake,Too Good,Drake,0.6409999999999999,0.82,0.102,0.395,117.974,5.07e-05,0.0662,77.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+330,551,551,183,Party Up (Up In Here) DMX,Party Up (Up In Here),DMX,0.8340000000000001,0.736,0.407,0.234,100.979,0.0,0.077,55.0,"['east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']"
+331,552,552,184,Fresh Eyes Andy Grammer,Fresh Eyes,Andy Grammer,0.495,0.825,0.145,0.8809999999999999,122.052,4.01e-05,0.581,64.0,"['dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']"
+332,553,553,184,Vente Pa' Ca Ricky Martin,Vente Pa' Ca,Ricky Martin,0.92,0.6629999999999999,0.101,0.5329999999999999,99.935,1.6899999999999994e-05,0.0043100000000000005,77.0,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'tropical']"
+333,554,554,184,Would I lie to you David Guetta,Would I Lie To You - Radio Edit,David Guetta,0.826,0.6709999999999999,0.631,0.774,123.986,0.0,0.00718,70.0,"['dance pop', 'edm', 'pop']"
+334,555,555,185,I Need A Girl P. Diddy,"I Need a Girl Part 2 (feat. Loon, Ginuwine & Mario Winans)",Diddy,0.471,0.713,0.0308,0.7809999999999999,199.765,0.0,0.421,67.0,"['dance pop', 'dirty south rap', 'east coast hip hop', 'hip hop', 'hip pop', 'pop rap', 'r&b', 'rap']"
+335,556,556,185,One in a Million Neyo,One In A Million,Ne-Yo,0.794,0.763,0.327,0.65,99.999,2.86e-06,0.122,63.0,"['dance pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']"
+336,557,557,185,I Want It That Way Backstreet Boys,I Want It That Way,Backstreet Boys,0.7020000000000001,0.6890000000000001,0.159,0.484,99.031,0.0,0.21600000000000005,80.0,"['boy band', 'dance pop', 'europop', 'pop']"
+337,559,559,186,broccolli ,Broccolli,XENPÄI,0.309,0.775,0.109,0.483,112.027,0.0,0.28300000000000003,2.0,[]
+338,561,561,187,Playing with Fire BlackPink,PLAYING WITH FIRE,BLACKPINK,0.758,0.7070000000000001,0.141,0.674,97.037,0.0,0.0399,76.0,['k-pop']
+339,562,562,187,Call on Me Ryan Riback remix,Call on Me - Ryan Riback Remix,Starley,0.838,0.67,0.159,0.7170000000000001,104.998,0.000611,0.0604,72.0,['aussietronica']
+340,565,565,188,Hymn for the weekend Coldplay,Hymn For The Weekend,Coldplay,0.743,0.49,0.3,0.363,89.97399999999998,7.21e-06,0.255,80.0,"['permanent wave', 'pop']"
+341,566,566,188,Heathens 21 Pilots,Heathens,Twenty One Pilots,0.396,0.732,0.105,0.5479999999999999,90.024,3.58e-05,0.0841,83.0,"['pop punk', 'rock']"
+342,567,567,189,Waste a moment Kings of Leon,Waste A Moment,Kings of Leon,0.85,0.436,0.128,0.537,152.644,0.74,0.0008609999999999999,69.0,"['garage rock', 'indie rock', 'modern rock', 'rock']"
+343,568,568,189,Work this body Walk the Moon,Work This Body,WALK THE MOON,0.831,0.421,0.464,0.488,134.02700000000002,0.0,0.0283,61.0,"['indie pop', 'indie poptimism', 'indietronica', 'modern alternative rock', 'modern rock', 'pop', 'pop rock']"
+344,569,569,189,Something to believe in Young the Giant,Something To Believe In,Young the Giant,0.8859999999999999,0.623,0.247,0.7090000000000001,92.021,0.0,0.0245,64.0,"['indie pop', 'indie poptimism', 'indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'rock', 'stomp and holler']"
+345,571,571,190,Exchange Bryson Tiller ,Exchange,Bryson Tiller,0.433,0.53,0.135,0.274,160.14,0.0,0.108,81.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music']"
+346,572,572,190,Break from Toronto Partynextdoor,Break From Toronto,PARTYNEXTDOOR,0.6779999999999999,0.596,0.418,0.259,117.066,0.004,0.0199,71.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'urban contemporary']"
+347,574,574,191,The Hound Elvis Presley,Hound Dog,Elvis Presley,0.7559999999999999,0.35700000000000004,0.76,0.95,174.797,0.00505,0.733,72.0,"['christmas', 'rock-and-roll', 'rockabilly']"
+348,575,575,191,Johnny B. Goode Chuck Berry,Johnny B. Goode,Chuck Berry,0.8059999999999999,0.522,0.313,0.969,168.078,5.479999999999999e-05,0.748,74.0,"['blues-rock', 'christmas', 'classic rock', 'folk rock', 'rock', 'rock-and-roll', 'rockabilly', 'soul']"
+349,576,576,192,Magnify We Are Messengers,Magnify,We Are Messengers,0.7659999999999999,0.5660000000000001,0.117,0.401,139.955,0.0,0.133,54.0,"['ccm', 'christian alternative rock', 'christian music']"
+350,578,578,192,Hallelujah Leonard Cohen,Hallelujah,Leonard Cohen,0.344,0.28,0.133,0.232,171.143,0.00642,0.715,64.0,"['canadian folk', 'folk', 'folk rock', 'folk-pop', 'melancholia', 'permanent wave', 'singer-songwriter', 'traditional folk']"
+351,579,579,193,Shot of Glory Washboard Union ,Shot of Glory,The Washboard Union,0.921,0.468,0.222,0.913,185.93400000000003,0.0,0.0511,36.0,['canadian country']
+352,580,580,193,Keep me in Mind Zac Brown Band,Keep Me In Mind,Zac Brown Band,0.715,0.684,0.181,0.563,96.018,0.0,0.159,57.0,"['contemporary country', 'country', 'country road', 'modern country rock']"
+353,581,581,193,Footloose Blake Shelton,Footloose,Blake Shelton,0.924,0.52,0.128,0.8440000000000001,173.98,2.31e-06,0.00121,50.0,"['contemporary country', 'country', 'country road']"
+354,583,583,194,Candyman Zedd,Candyman,Zedd,0.875,0.573,0.35600000000000004,0.235,149.974,0.0,0.0232,64.0,"['complextro', 'dance pop', 'edm', 'german techno', 'pop', 'post-teen pop', 'tropical house']"
+355,584,584,194,Spectrum Zedd,Spectrum,Zedd,0.8009999999999999,0.609,0.127,0.407,129.99,0.00349,0.0137,64.0,"['complextro', 'dance pop', 'edm', 'german techno', 'pop', 'post-teen pop', 'tropical house']"
+356,586,586,195,Girls your age transviolet,Girls Your Age,Transviolet,0.398,0.4270000000000001,0.0903,0.114,139.249,0.00479,0.453,57.0,"['dance pop', 'electropop', 'indie electro-pop', 'indie poptimism', 'indietronica', 'vapor soul']"
+357,587,587,195,Drunk Zayn,dRuNk,ZAYN,0.597,0.643,0.107,0.375,119.827,9.9e-06,0.509,61.0,"['dance pop', 'pop', 'post-teen pop']"
+358,588,588,196,Side to side ariana grande,Side To Side,Ariana Grande,0.736,0.65,0.235,0.612,159.174,0.0,0.0513,84.0,"['dance pop', 'pop', 'post-teen pop']"
+359,591,591,197,Anime soundtracks,Doraemon no Uta (Orchestral Anime Soundtrack),The Robotic Cats,0.21600000000000005,0.508,0.125,0.615,120.966,0.887,0.221,19.0,[]
+360,593,593,197,christmas songs,I've Got You Under My Skin - Remastered 1998,Frank Sinatra,0.247,0.585,0.107,0.591,127.15,8.85e-06,0.452,69.0,"['adult standards', 'christmas', 'easy listening', 'lounge']"
+361,594,594,198,sweet sweet travis scott,sweet sweet,Travis Scott,0.578,0.733,0.403,0.447,142.028,1.19e-06,0.0859,67.0,"['pop', 'pop rap', 'rap']"
+362,595,595,198,roses SAINt JHN,Roses,SAINt JHN,0.5,0.782,0.133,0.281,102.001,2.05e-05,0.342,66.0,"['indie r&b', 'rap', 'trap music', 'trap soul', 'underground hip hop']"
+363,598,598,199,Into You Ariana Grande,Into You,Ariana Grande,0.7340000000000001,0.623,0.145,0.3720000000000001,107.853,1.9e-06,0.0162,83.0,"['dance pop', 'pop', 'post-teen pop']"
+364,599,599,199,Kiss it better Rhianna,Kiss It Better (Originally Performed By Rhianna),Sunfly Karaoke,0.418,0.484,0.0625,0.542,190.237,0.408,0.0021100000000000003,1.0,['karaoke']
+365,600,600,200,Recognize Partynextdoor,Recognize (feat. Drake),PARTYNEXTDOOR,0.541,0.643,0.102,0.165,119.501,0.0,0.0102,69.0,"['hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'trap music', 'urban contemporary']"
+366,601,601,200,Through the Late Night Travis Scott,through the late night,Travis Scott,0.589,0.7440000000000001,0.119,0.242,127.051,0.0,0.36,72.0,"['pop', 'pop rap', 'rap']"
+367,602,602,200,Luv Tory Lanez,LUV,Tory Lanez,0.528,0.539,0.117,0.252,190.169,0.0,0.0108,71.0,"['canadian hip hop', 'hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']"
+368,604,604,201,Don't Wanna Know Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),Maroon 5,0.61,0.783,0.0983,0.418,100.047,0.0,0.343,69.0,"['pop', 'pop rock']"
+369,605,605,201,All we know The Chainsmokers,All We Know,The Chainsmokers,0.586,0.662,0.115,0.29600000000000004,90.0,0.00272,0.097,75.0,"['edm', 'electropop', 'pop', 'tropical house']"
+370,607,607,202,Singing Low The Fray,Singing Low,The Fray,0.593,0.527,0.11,0.28300000000000003,90.167,0.000182,0.413,51.0,"['neo mellow', 'piano rock', 'pop', 'pop rock']"
+371,608,608,202,Kids One Republic ,Stranger Things (feat. OneRepublic),Kygo,0.6609999999999999,0.604,0.0951,0.506,107.016,0.0,0.234,74.0,"['edm', 'pop', 'tropical house']"
+372,610,610,203,Tennessee Whiskey Chris Stapleton,Tennessee Whiskey,Chris Stapleton,0.37,0.392,0.0821,0.512,48.718,0.0096,0.205,78.0,['contemporary country']
+373,611,611,203,Mirrors Justin Timberlake,Mirrors,Justin Timberlake,0.512,0.574,0.0946,0.512,76.899,0.0,0.234,67.0,"['dance pop', 'pop']"
+374,614,614,204,Rap God Eminem ,Rap God,Eminem,0.843,0.708,0.799,0.625,148.14,0.0,0.397,81.0,"['detroit hip hop', 'g funk', 'hip hop', 'rap']"
+375,615,615,205,Congratulations Post Malone,Congratulations,Post Malone,0.804,0.63,0.253,0.4920000000000001,123.146,0.0,0.215,88.0,"['pop', 'rap']"
+376,616,616,205,Love$ick Mura Masa,Love$ick (feat. A$AP Rocky),Mura Masa,0.763,0.625,0.214,0.721,88.75299999999999,0.0106,0.147,75.0,"['edm', 'vapor soul']"
+377,617,617,205,Used To This Future,Used to This,Future,0.727,0.618,0.196,0.401,164.99200000000005,0.0,0.0312,65.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+378,618,618,206,Vivir Mi Vida Marc Anthony,Vivir Mi Vida,Marc Anthony,0.877,0.655,0.349,0.893,105.017,0.0,0.344,75.0,"['latin', 'latin pop', 'salsa', 'tropical']"
+379,619,619,206,In the end Linkin Park,In The End,Linkin Park,0.853,0.542,0.108,0.37,105.256,0.0,0.0103,85.0,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']"
+380,620,620,206,Sing for the moment Eminem,Sing For The Moment,Eminem,0.81,0.664,0.0559,0.162,164.05200000000005,1.62e-06,0.00196,74.0,"['detroit hip hop', 'g funk', 'hip hop', 'rap']"
+381,621,621,207,Guidance Travis Scott,guidance,Travis Scott,0.753,0.7020000000000001,0.41,0.453,139.98,1.38e-06,0.0609,63.0,"['pop', 'pop rap', 'rap']"
+382,622,622,207,March Madness Future,March Madness,Future,0.6609999999999999,0.406,0.101,0.335,180.206,0.0,0.173,65.0,"['hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+383,623,623,207,Timmy Turner Desiigner,Tiimmy Turner,Desiigner,0.725,0.602,0.0786,0.304,122.803,0.0,0.174,76.0,"['dwn trap', 'hip hop', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']"
+384,624,624,208,Electric Body ASAP Rocky,Electric Body,A$AP Rocky,0.598,0.897,0.0646,0.528,119.966,0.0014,0.4920000000000001,65.0,"['east coast hip hop', 'hip hop', 'pop', 'pop rap', 'rap', 'trap music']"
+385,626,626,208,Maad City Kendrick Lamar,m.A.A.d city,Kendrick Lamar,0.7290000000000001,0.487,0.44,0.217,91.048,4.07e-06,0.0538,67.0,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']"
+386,627,627,209,Trust Nobody Cashmere Cat,Trust Nobody (feat. Selena Gomez & Tory Lanez),Cashmere Cat,0.625,0.49,0.118,0.748,78.762,0.0,0.4970000000000001,66.0,"['dance pop', 'downtempo', 'edm', 'electropop', 'pop', 'post-teen pop', 'shiver pop']"
+387,628,628,209,Deja Vu Post Malone,Deja Vu,Post Malone,0.69,0.62,0.131,0.331,133.935,0.0,0.0931,78.0,"['pop', 'rap']"
+388,630,630,210,Ooh La The Kooks,Ooh La,The Kooks,0.873,0.5429999999999999,0.15,0.7859999999999999,150.891,9.45e-05,0.0165,48.0,"['garage rock', 'indie rock', 'modern rock', 'rock']"
+389,631,631,210,Kill Your Heroes AWOLNATION,Kill Your Heroes,AWOLNATION,0.95,0.575,0.765,0.315,96.046,9.47e-05,0.00842,54.0,"['la indie', 'modern alternative rock', 'modern rock', 'rock', 'stomp pop']"
+390,632,632,210,Honey Save Me From My Falsehoods Asha Jefferies,"Honey, Save Me From My Falsehoods",Asha Jefferies,0.0218,0.332,0.112,0.119,83.626,6.54e-05,0.8690000000000001,28.0,[]
+391,633,633,211,aint my fault rehab remix,Ain't My Fault - R3hab Remix,Zara Larsson,0.847,0.67,0.22,0.613,150.109,0.0,0.0156,64.0,"['dance pop', 'edm', 'pop', 'post-teen pop', 'r&b', 'swedish electropop', 'swedish pop', 'tropical house']"
+392,634,634,211,say yes,Say Yes,Floetry,0.404,0.74,0.128,0.4270000000000001,117.887,1.41e-06,0.219,60.0,"['hip hop', 'hip pop', 'indie r&b', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']"
+393,635,635,211,lotto,Lotto,EXO,0.867,0.7979999999999999,0.193,0.7020000000000001,99.996,0.0,0.0618,66.0,['k-pop']
+394,636,636,212,Wolves Big Wreck,Wolves,Big Wreck,0.948,0.337,0.152,0.7090000000000001,157.966,0.00177,0.00465,22.0,"['canadian indie', 'canadian rock', 'post-grunge']"
+395,637,637,212,Bush Party Dean Brody,Bush Party,Dean Brody,0.8290000000000001,0.575,0.139,0.48,140.035,0.0,0.32,39.0,"['canadian country', 'contemporary country', 'country', 'country road', 'modern country rock']"
+396,638,638,212,The Touch Kolaj,The Touch,KOLAJ,0.765,0.643,0.0411,0.353,111.972,0.00317,0.00954,42.0,[]
+397,639,639,213,Girls Like Tinie Tempah,Girls Like (feat. Zara Larsson),Tinie Tempah,0.804,0.916,0.0812,0.5379999999999999,120.028,1.18e-05,0.37,71.0,"['dance pop', 'grime', 'hip hop', 'house', 'pop', 'pop rap', 'post-teen pop', 'r&b', 'rap', 'tropical house']"
+398,641,641,213,Not above love aluna george,Not Above Love,AlunaGeorge,0.733,0.741,0.394,0.5379999999999999,96.044,0.0,0.413,59.0,"['electropop', 'house', 'indie r&b', 'indietronica', 'pop', 'tropical house']"
+399,644,644,214,Guillotine,Guillotine,Jon Bellion,0.7979999999999999,0.614,0.0966,0.593,98.127,5.83e-06,0.106,67.0,"['modern rock', 'pop', 'pop rap']"
+400,645,645,215,Centuries fall out boy,Centuries,Fall Out Boy,0.866,0.385,0.111,0.551,176.014,0.0,0.004,81.0,"['emo', 'modern rock', 'pop punk']"
+401,647,647,215,Dear Agony Breaking Benjamin,I Will Not Bow,Breaking Benjamin,0.952,0.5429999999999999,0.38,0.591,107.942,7.8e-06,0.000192,71.0,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rap rock']"
+402,648,648,216,Exit Music Radiohead,Exit Music (For a Film),Radiohead,0.276,0.293,0.16699999999999998,0.196,121.603,0.119,0.229,62.0,"['alternative rock', 'art rock', 'melancholia', 'modern rock', 'permanent wave', 'rock']"
+403,649,649,216,F me pumps Amy winehouse,F*** Me Pumps - US Clean Version,Amy Winehouse,0.335,0.893,0.175,0.619,102.911,0.0,0.106,35.0,['neo soul']
+404,652,652,217,This Town Niall Horan,This Town,Niall Horan,0.401,0.6779999999999999,0.118,0.194,111.855,0.0,0.72,77.0,"['dance pop', 'pop', 'post-teen pop']"
+405,653,653,217,All I Wanna Do Jay Park,All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version],Jay Park,0.7240000000000001,0.4,0.0927,0.43,96.782,0.0,0.375,65.0,"['k-hop', 'k-pop', 'korean pop', 'korean r&b']"
+406,654,654,218,Photograph Ed Sheeran ,Photograph,Ed Sheeran,0.379,0.614,0.0986,0.201,107.989,0.000464,0.607,86.0,['pop']
+407,656,656,218,Too many Russ ,Too Many,Russ,0.507,0.743,0.111,0.358,79.01100000000002,0.0,0.606,61.0,"['hip hop', 'pop', 'rap']"
+408,657,657,219,Can't Stop the Feeling,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,0.8320000000000001,0.669,0.0968,0.7,113.035,0.0,0.0106,77.0,"['dance pop', 'pop']"
+409,658,658,219,This is What you Came For,This Is What You Came For,Calvin Harris,0.928,0.63,0.14800000000000002,0.465,123.963,0.124,0.199,82.0,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'progressive house']"
+410,659,659,219,Don't Let Me Down,Don't Let Me Down,The Chainsmokers,0.8690000000000001,0.532,0.136,0.422,159.803,0.00508,0.157,84.0,"['edm', 'electropop', 'pop', 'tropical house']"
+411,660,660,220,Between Days Levi,Between Days,Levi,0.501,0.762,0.111,0.267,120.018,0.00481,0.0201,40.0,[]
+412,661,661,220,Drive Glades,Drive,Glades,0.72,0.589,0.0946,0.35600000000000004,127.99,0.000122,0.161,55.0,"['aussietronica', 'dance pop', 'electropop', 'indie electro-pop', 'indie poptimism', 'indietronica', 'pop', 'vapor soul']"
+413,662,662,220,1000 Nights FRENSHIP,1000 Nights,FRENSHIP,0.7090000000000001,0.594,0.0738,0.5870000000000001,90.001,0.0562,0.0315,64.0,"['deep tropical house', 'electropop', 'indie poptimism', 'modern rock', 'pop', 'tropical house']"
+414,663,663,221,Experience Ludovico Einaudi,Experience,Ludovico Einaudi,0.42,0.413,0.0698,0.0367,92.425,0.952,0.93,54.0,"['bow pop', 'compositional ambient']"
+415,664,664,221,Divenire Ludovico Einaudi,Divenire,Ludovico Einaudi,0.21,0.14400000000000002,0.0694,0.084,88.771,0.883,0.914,60.0,"['bow pop', 'compositional ambient']"
+416,666,666,222,Stole the Show Kygo,Stole the Show,Kygo,0.662,0.679,0.152,0.438,99.879,0.0,0.155,77.0,"['edm', 'pop', 'tropical house']"
+417,667,667,222,Lose Yourself Eminem,Lose Yourself - Soundtrack Version,Eminem,0.732,0.698,0.359,0.0689,171.43099999999995,0.000647,0.00704,80.0,"['detroit hip hop', 'g funk', 'hip hop', 'rap']"
+418,668,668,222,Shake It Off Taylor Swift,Shake It Off,Taylor Swift,0.785,0.648,0.14800000000000002,0.943,160.02,0.0,0.0561,73.0,"['dance pop', 'pop', 'post-teen pop']"
+419,669,669,223,Little do you know Alex and Sierra,Little Do You Know,Alex & Sierra,0.292,0.5,0.188,0.37,145.879,0.0,0.746,80.0,"['australian pop', 'dance pop', 'neo mellow', 'pop', 'post-teen pop', 'viral pop']"
+420,670,670,223,I believe in you Michael Buble,I Believe in You,Michael Bublé,0.7440000000000001,0.612,0.0978,0.527,113.009,2.57e-06,0.125,65.0,"['adult standards', 'canadian pop', 'lounge', 'neo mellow']"
+421,671,671,223,Make it Work Majid Jordan,Make It Work,Majid Jordan,0.643,0.75,0.146,0.343,107.017,0.00283,0.00275,55.0,"['indie r&b', 'pop', 'pop rap', 'rap', 'trap soul']"
+422,673,673,224,Something About You Majid Jordan ,Something About You,Majid Jordan,0.6809999999999999,0.575,0.219,0.232,110.091,0.0,0.0888,55.0,"['indie r&b', 'pop', 'pop rap', 'rap', 'trap soul']"
+423,675,675,225,Often the Weeknd,Often,The Weeknd,0.629,0.569,0.135,0.0726,134.035,0.0,0.218,77.0,"['canadian pop', 'pop', 'rap']"
+424,676,676,225,Telepathy Christina Aguilera,Telepathy,Christina Aguilera,0.893,0.519,0.35,0.78,110.091,0.00103,0.0479,51.0,"['dance pop', 'pop', 'post-teen pop', 'r&b']"
+425,677,677,225,We Don't Talk Anymore Charlie Puth and Selena Gomez,We Don't Talk Anymore (Originally by Charlie Puth and Selena Gomez) - Karaoke Instrumental,Karaoke Freaks,0.535,0.726,0.102,0.374,101.214,0.92,0.435,6.0,['karaoke']
+426,678,678,226,White Ferrari frank ocean ,White Ferrari,Frank Ocean,0.0924,0.444,0.304,0.219,108.917,0.0,0.784,70.0,"['hip hop', 'indie r&b', 'lgbtq+ hip hop', 'neo soul', 'pop', 'rap']"
+427,680,680,226,Cold hard love Tory lanez ,Cold Hard Love,Tory Lanez,0.653,0.474,0.0951,0.173,90.036,0.000295,0.264,49.0,"['canadian hip hop', 'hip hop', 'indie r&b', 'pop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap music']"
+428,684,684,228,Chloroform Phoenix ,Chloroform,Phoenix,0.733,0.329,0.0812,0.317,137.657,0.0103,0.00242,50.0,"['alternative dance', 'indie pop', 'indie rock', 'indietronica', 'modern rock', 'new rave']"
+429,685,685,228,Hold you gyptian ,Hold You - Hold Yuh,Gyptian,0.621,0.69,0.0884,0.4970000000000001,66.858,2.81e-05,0.321,68.0,"['conscious hip hop', 'dancehall', 'reggae fusion', 'roots reggae']"
+430,686,686,228,Jarmin in the dark the monks ,Jarmin in the Dark,Young Monks,0.6559999999999999,0.616,0.281,0.54,79.969,0.000324,0.0737,47.0,[]
+431,687,687,229,Best of both worlds Miley Cyrus ,"Best of Both Worlds - Live from Arrowhead Pond, Anaheim, U.S.A./2008",Miley Cyrus,0.928,0.556,0.946,0.551,123.994,0.0025800000000000003,0.0923,34.0,"['dance pop', 'pop', 'post-teen pop']"
+432,689,689,229,Starboy weeknd,Starboy,The Weeknd,0.587,0.679,0.137,0.486,186.003,6.35e-06,0.141,84.0,"['dfw rap', 'melodic rap', 'rap']"
+433,691,691,230,GOLD Kiiara ,Gold,Kiiara,0.412,0.6,0.134,0.408,113.049,0.0025,0.615,74.0,"['dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop', 'tropical house']"
+434,692,692,230,I was here Beyonce,I Was Here,Beyoncé,0.627,0.51,0.0927,0.234,110.992,0.0,0.431,64.0,"['dance pop', 'pop', 'post-teen pop', 'r&b']"
+435,693,693,231,Light up the sky the Afters,Light Up the Sky,The Afters,0.774,0.468,0.0666,0.408,141.959,0.0,0.0319,54.0,"['anthem worship', 'ccm', 'christian alternative rock', 'christian music', 'christian rock', 'worship']"
+436,695,695,231,If Today is your last day Nickelback,If Today Is Your Last Day (In the Style of Nickelback) [Karaoke Version],Mr. Entertainer Karaoke,0.4970000000000001,0.573,0.354,0.589,90.021,0.0327,1.02e-05,0.0,['karaoke']
+437,696,696,232,Reaper Sia,Reaper,Sia,0.773,0.5670000000000001,0.0901,0.731,82.947,0.00011,0.0355,59.0,"['australian dance', 'australian pop', 'dance pop', 'pop']"
+438,697,697,232,Lost On You Death Valley,Death Valley,LP,0.8340000000000001,0.685,0.124,0.7559999999999999,120.044,0.18,0.00562,50.0,['indie rock']
+439,698,698,232,Don't Ed Sheeran,Don't,Ed Sheeran,0.608,0.8059999999999999,0.635,0.8490000000000001,95.049,0.0,0.0113,77.0,['pop']
+440,699,699,233,fake love drake ,Fake Love,Drake,0.488,0.927,0.196,0.605,133.987,0.0,0.108,79.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']"
+441,700,700,233,24K Magic Bruno Mars ,That's What I Like,Bruno Mars,0.56,0.853,0.0944,0.86,134.066,0.0,0.013,86.0,"['pop', 'post-teen pop']"
+442,701,701,233,daddy lessons beyonce ,Daddy Lessons,Beyoncé,0.851,0.621,0.887,0.449,90.94,1.4499999999999997e-05,0.0202,61.0,"['dance pop', 'pop', 'post-teen pop', 'r&b']"
+443,702,702,234,Crystal Blue Persuasion Tommy James,Crystal Blue Persuasion,Tommy James & The Shondells,0.313,0.603,0.184,0.8170000000000001,99.172,4.53e-05,0.248,50.0,"['brill building pop', 'bubblegum pop', 'classic garage rock', 'classic rock', 'folk rock', 'mellow gold', 'merseybeat', 'rock', 'rock-and-roll', 'rockabilly', 'soft rock']"
+444,703,703,234,You Got It On  Justin Timberlake,You Got It On,Justin Timberlake,0.442,0.574,0.189,0.467,86.43,0.0029,0.19,40.0,"['dance pop', 'pop']"
+445,704,704,234,New Person Same Old Mistakes Tame Impala,"New Person, Same Old Mistakes",Tame Impala,0.809,0.47,0.0491,0.49,151.836,0.00671,0.272,69.0,"['australian alternative rock', 'indietronica', 'modern rock', 'neo-psychedelic', 'psychedelic rock']"
+446,2,2,0,Don't Wanna Know Maroon5 Kendrick Lamar,Don't Wanna Know,Maroon 5 & Kendrick Lamar,,,,,,,,,
+447,3,3,1,Put that on my set asap rocky ft skepta,Put That On My Set (feat. A$AP Rocky & Skepta),ASAP Mob,0.547,0.752,0.107,0.161,111.962,0.000249,0.113,52.0,"['hip hop', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+448,4,4,1,High rhe beach lana del rey,Lana Del Rey,High by the Beach,,,,,,,,,
+449,7,7,2,Love on the Brain Rhianna,Rihanna,Love On The Brain,,,,,,,,,
+450,14,14,4,Mr. Bright side the killers,Mr. Brightside,The Killers,0.911,0.352,0.0995,0.236,148.033,0.0,0.00121,83.0,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+451,21,21,7,SelfControl Frank Ocean,Self Control,Frank Ocean,0.209,0.572,0.356,0.446,80.069,0.0,0.765,74.0,"['alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'neo soul', 'pop']"
+452,34,34,11,https://www.youtube.com/watch?v=ABuR0nLRVo&list=PLkqYoqI5Cl1pc6b5jxei9o5CiMMlyZ3nO,GATE OF STEINER symphonic ver.,Takeshi Abo,,,,,,,,,
+453,43,43,14,Label black gupz sehra,Label Black,Gupz Sehra,0.875,0.612,0.328,0.898,179.893,0.0,0.254,48.0,['punjabi pop']
+454,46,46,15,Waltz for life will be born Nujabes,Waltz for Life Will Born,Nujabes,0.726,0.294,0.303,0.651,180.169,0.969,0.377,33.0,"['chillhop', 'downtempo', 'japanese chillhop', 'japanese old school hip hop', 'jazz rap']"
+455,47,47,15,Throw it back ProletR,Throw It Back (feat. Taskrok),Proleter,0.79,0.5,0.639,0.93,171.67,0.0,0.173,46.0,"['electro swing', 'nu jazz']"
+456,48,48,16,Reverse skydiving Hot Natured ft. Anabel Englund,Reverse Skydiving (feat. Anabel Englund),Hot Natured,0.461,0.915,0.0771,0.582,118.013,0.0595,0.00641,47.0,"['deep disco house', 'deep house', 'house', 'microhouse']"
+457,49,49,16,Let's Nacho from the movie Kapoor & Sons,"Let's Nacho (From ""Kapoor & Sons (Since 1921)"")","Nucleya, Benny Dayal, Badshah",0.947,0.742,0.0721,0.88,130.043,0.0221,0.0906,34.0,"['desi hip hop', 'desi pop', 'hindi hip hop', 'indian edm', 'indian indie']"
+458,51,51,17,swang Travis scott,Swang,Rae Sremmurd,0.314,0.681,0.1,0.166,139.992,9.82e-06,0.2,73.0,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+459,59,59,19,Mad world jubel,Mad World,Michael Andrews,0.133,0.346,0.109,0.332,174.291,1.11e-05,0.966,56.0,['neo mellow']
+460,66,66,22,Broccoli D.R.A.M ft. Lil Yachty,Broccoli (feat. Lil Yachty),Shelley FKA DRAM,0.525,0.886,0.057,0.708,145.99,0.0,0.236,64.0,"['alternative r&b', 'pop rap', 'rap', 'trap', 'underground hip hop', 'virginia hip hop']"
+461,115,115,38,Sedone Houndmouth,Sedona,Houndmouth,0.654,0.394,0.112,0.264,135.188,6.96e-05,0.0404,64.0,"['deep new americana', 'indie folk', 'modern folk rock', 'modern rock', 'new americana', 'rock', 'stomp and holler']"
+462,116,116,38,The Grand Optimist City and Colour,Grand Optimist,City and Colour,,,,,,,,,
+463,141,141,47,Rockae Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,0.763,0.72,0.18,0.742,101.965,0.0,0.406,75.0,"['dance pop', 'edm', 'pop', 'pop dance', 'tropical house', 'uk dance', 'uk funky']"
+464,142,142,47,Craig David ain't givin up (wide awake remix),Ain't Giving Up - WiDE AWAKE Remix,"Craig David, Sigala, WiDE AWAKE",0.646,0.609,0.0787,0.58,74.987,4.8e-05,0.0197,37.0,"['british soul', 'dance pop', 'pop rap', 'r&b', 'urban contemporary']"
+465,145,145,48,Shelter Porter Robinson & Madeon,Shelter,Porter Robinson & Madeon,0.796,0.276,0.184,0.26,199.526,0.0,0.00293,66.0,"['complextro', 'edm', 'future bass', 'progressive electro house']"
+466,146,146,48,Love10 masara ft. Julianna & Ran,Love10 (ft. Juunana & Ran),masara,,,,,,,,,
+467,163,163,54,Maybe IDK Jon Belion,Maybe IDK,Jon Bellion,0.54,0.54,0.231,0.209,120.266,0.0,0.0616,44.0,['pop rap']
+468,164,164,54,Luxury Jon Belion,Luxury,Jon Bellion,0.393,0.67,0.104,0.193,77.461,0.000307,0.0159,51.0,['pop rap']
+469,185,185,61,Wiggins MoG,Wiggins,MO-G,0.692,0.766,0.128,0.425,100.952,0.0,0.199,22.0,"['indie pop', 'vancouver indie']"
+470,186,186,62,Only U Party next daydoor,Only U,PARTYNEXTDOOR,0.786,0.37,0.243,0.756,65.568,0.0,0.306,53.0,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']"
+471,205,205,68,Home for Christmas take 3,Home for Christmas,Take Three,,,,,,,,,
+472,236,236,78,2 am SZA ,2AM,SZA,,,,,,,,,
+473,241,241,80,Veins in the trap Travis scott,beibs in the trap,Travis Scott,0.571,0.743,0.291,0.495,119.054,0.0,0.24,71.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+474,242,242,80,Gangsta khelani,Gangsta,Kehlani,0.447,0.439,0.303,0.11,121.48,0.0,0.111,70.0,"['dance pop', 'pop', 'r&b']"
+475,252,252,84,Sun is never going down. By Martin Garrix,Sun Is Never Going Down (feat. Dawn Golden),Martin Garrix,0.726,0.506,0.266,0.266,128.044,8.05e-05,0.00308,48.0,"['dance pop', 'dutch edm', 'edm', 'pop', 'pop dance', 'progressive house', 'tropical house']"
+476,264,264,88,Remembering SundayAll Time Low,Remembering Sunday,All Time Low,0.602,0.45,0.141,0.316,170.043,0.0,0.15,61.0,['pop rap']
+477,273,273,91,Blue Jay season Tory lanez,Blue Jay Season,Tory Lanez,,,,,,,,,
+478,274,274,91,Who future and young thug,Who,DJ ESCO,0.635,0.846,0.343,0.51,110.034,0.0,0.0969,47.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+479,276,276,92,Five more hours Derro,Five More Hours (feat. Chris Brown),Deorro,,,,,,,,,
+480,279,279,93,R.O.D GDragon,R.O.D.,"G-DRAGON, Lydia Paek",0.852,0.673,0.104,0.586,144.953,0.0,0.031,45.0,['k-pop']
+481,282,282,94,World is Yours  Genius P.J's and Daoko,world is yours,"Genius P.J's, Daoko",0.895,0.431,0.0866,0.246,147.734,0.0,0.0147,3.0,['brooklyn drill']
+482,294,294,98,Heat swing machal montano,Temperature,Machel Montano,0.964,0.802,0.261,0.681,127.983,0.0,0.12,19.0,"['chutney', 'dancehall', 'soca']"
+483,295,295,98,Controllerdrake,Controlla,Drake,0.468,0.59,0.101,0.349,92.287,0.0,0.0789,73.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+484,296,296,98,La gente de gorza mark anthony,La Gozadera (feat. Marc Anthony),Gente De Zona,0.989,0.616,0.172,0.902,95.036,0.0,0.166,74.0,"['cubaton', 'latin', 'latin hip hop', 'latin pop']"
+485,297,297,99,One Dance the 6ix god,One Dance (feat. Wizkid & Kyla),Drake,,,,,,,,,
+486,330,330,110,You're going to miss me when I'm gone Anna Kendrick,"Cups (Pitch Perfect's ""When I'm Gone"") - Pop Version",Anna Kendrick,,,,,,,,,
+487,332,332,110,The little drummer boy Pentatonix,Little Drummer Boy,Pentatonix,0.411,0.713,0.0763,0.626,134.007,7.19e-05,0.3,59.0,['a cappella']
+488,334,334,111,Brown Boy Nav,Brown Boy,NAV,0.866,0.863,0.201,0.873,147.055,0.0,0.164,47.0,[]
+489,335,335,111,Nothing on Me Nav,Nothing On Me,NAV,,,,,,,,,
+490,337,337,112,Yours to keep Casey braves,Yours To Keep,Casey Breves,,,,,,,,,
+491,341,341,113,Lorde Tennis Court (Flume Remix),Tennis Court (Flume Remix),Lorde,,,,,,,,,
+492,374,374,124,https://www.youtube.com/watch?v=xFrGuyw1V8s,Dancing Queen,ABBA,0.87,0.543,0.792,0.754,100.804,0.000939,0.358,81.0,"['europop', 'swedish pop']"
+493,394,394,131,No Problems Chance the Rapper,No Problem (feat. Lil Wayne & 2 Chainz),Chance the Rapper,0.795,0.652,0.123,0.788,135.018,0.0,0.156,69.0,"['canadian pop', 'pop']"
+494,396,396,132,Folger Crystals J.Cole,Folgers Crystals,J. Cole,0.742,0.884,0.127,0.849,109.982,0.0,0.357,48.0,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+495,397,397,132,Love Yourz J.Cole,Love Yourz,J. Cole,0.623,0.502,0.119,0.399,75.578,0.0,0.609,72.0,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+496,398,398,132,Bas My nigga just made bail ft. J. Cole,My Nigga Just Made Bail,Bas,0.619,0.814,0.0829,0.625,124.073,0.0,0.607,48.0,"['permanent wave', 'punk']"
+497,413,413,137,mozarts 4th symphany ,"Symphony No. 4 in D major, K. 19,",Wolfgang Amadeus Mozart,,,,,,,,,
+498,423,423,141,That new Future fr. Drizzy Drake Used to this,Used to This (feat. Drake),Future,0.727,0.618,0.196,0.401,164.992,0.0,0.0312,57.0,"['canadian hip hop', 'canadian pop', 'hip hop', 'rap', 'toronto rap']"
+499,424,424,141,You need to CUT ITTT ✂✂✂,Cut It (feat. Young Dolph),OT Genasis,0.673,0.875,0.292,0.231,130.0,0.0,0.135,63.0,"['pop rap', 'rap', 'southern hip hop', 'trap']"
+500,425,425,141,This one for the shawties out there Jeremih Ouiiiiii,oui,Jeremih,0.722,0.705,0.126,0.635,119.879,0.0,0.215,19.0,"['chicago rap', 'dance pop', 'hip hop', 'pop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'urban contemporary']"
+501,435,435,145,I will posess your heart death cab for cutie,I Will Possess Your Heart,Death Cab for Cutie,0.619,0.605,0.0732,0.578,133.074,0.313,0.423,55.0,"['alternative rock', 'indie pop', 'indie rock', 'modern rock', 'pop rock', 'washington indie']"
+502,436,436,145,Workshoes USS,Work Shoes,Ubiquitous Synergy Seeker,0.858,0.646,0.269,0.689,81.423,0.0,0.0862,43.0,"['canadian indie', 'modern alternative rock']"
+503,449,449,149,Don't Do It For You No More PARTYNEXTDOOR,DON'T DO IT FOR YOU NO MORE,PARTYNEXTDOOR,0.654,0.399,0.0585,0.462,160.04,0.00025,0.0116,43.0,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']"
+504,450,450,150,Fallin' Alicia Keyes,Fallin',Alicia Keys,0.609,0.652,0.233,0.482,95.986,0.00101,0.263,67.0,"['hip pop', 'neo soul', 'pop', 'r&b', 'urban contemporary']"
+505,458,458,152,One Wine Machel Montana Ft. Major Lazer,One Wine (feat. Major Lazer),"Machel Montano, Sean Paul",0.944,0.502,0.293,0.899,195.804,0.0,0.116,33.0,"['chutney', 'dancehall', 'soca']"
+506,462,462,154,Hey Girl Lady Gaga ft. Florence Welch,Hey Girl,Lady Gaga,0.451,0.754,0.0688,0.622,138.024,6.5e-06,0.0562,52.0,"['art pop', 'dance pop', 'pop']"
+507,468,468,156,father stretch my hand kanye,Father Stretch My Hands Pt. 1,Kanye West,0.573,0.724,0.538,0.438,113.088,0.0,0.118,79.0,"['chicago rap', 'rap']"
+508,477,477,159,El Dorado Ramriddlz & Hamza,El Dorado,Hamza,0.735,0.724,0.0797,0.926,160.048,0.0,0.44,46.0,"['canadian contemporary r&b', 'canadian hip hop', 'rap calme', 'trap soul']"
+509,479,479,159,Aaj Jaane Ki Zid Na Karo Arijit Singh,Aaj Jaane Ki Zid Na Karo,Arijit Singh,,,,,,,,,
+510,514,514,171,Spacebound eminem,Space Bound,Eminem,0.886,0.668,0.459,0.503,142.002,0.0,0.0417,69.0,"['detroit hip hop', 'hip hop', 'rap']"
+511,517,517,172,You're going to go far kid the offspring ,"You're Gonna Go Far, Kid",The Offspring,0.917,0.55,0.197,0.601,126.115,0.0,0.00428,79.0,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']"
+512,518,518,172,Beverly Hills wheezer,Beverly Hills,Weezer,0.823,0.693,0.328,0.741,87.904,0.0,0.0932,71.0,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']"
+513,522,522,174,Runner A$AP Mob ft Lil Uzi Vert and A$AP Ant,Runner (feat. A$AP Ant and Lil Uzi Vert),ASAP Mob,,,,,,,,,
+514,525,525,175,21K Bruno Mars,24K Magic,Bruno Mars,0.803,0.818,0.153,0.632,106.97,0.0,0.034,78.0,"['dance pop', 'pop']"
+515,527,527,175,Orphelia The Lumineers,Ophelia,The Lumineers,0.573,0.664,0.0857,0.566,76.023,0.000363,0.613,79.0,"['folk-pop', 'modern rock', 'pop', 'pop rock', 'stomp and holler']"
+516,532,532,177,Caroline Anime,Caroline,Aminé,0.335,0.94,0.262,0.707,120.04,0.0,0.17,76.0,"['hip hop', 'pop', 'portland hip hop', 'rap', 'underground hip hop']"
+517,541,541,180,It girl Jason Deurlo ,It Girl,Jason Derulo,0.718,0.668,0.104,0.345,91.993,0.0,0.0165,71.0,"['dance pop', 'pop', 'pop rap', 'post-teen pop']"
+518,543,543,181,Swallow up the ocean Billytalent,Swallowed up by the Ocean,Billy Talent,0.894,0.581,0.169,0.183,112.052,0.0,0.00509,37.0,"['alternative metal', 'canadian punk', 'punk']"
+519,545,545,181,Tighted up The Black Keys,Tighten Up,The Black Keys,0.711,0.517,0.568,0.582,108.846,7.15e-06,0.000763,61.0,"['alternative rock', 'blues rock', 'garage rock', 'modern blues rock', 'modern rock', 'punk blues', 'rock', 'roots rock']"
+520,560,560,186,Say it Tory Lanz,Say It,Tory Lanez,0.529,0.546,0.124,0.247,107.331,6.5e-06,0.0862,75.0,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']"
+521,563,563,187,Juju on That Beat Zay Hilfigerrrrrr,Juju on That Beat (TZ Anthem),"Zay Hilfigerrr, Zayion McCall",0.887,0.807,0.391,0.78,160.517,0.0,0.00381,58.0,[]
+522,564,564,188,Starry The Weeknd,Starboy,The Weeknd,0.587,0.679,0.137,0.486,186.003,6.35e-06,0.141,84.0,"['dfw rap', 'melodic rap', 'rap']"
+523,570,570,190,To Dream Tory Lanez,To D.R.E.A.M.,Tory Lanez,0.523,0.48,0.143,0.0979,137.671,0.0,0.00979,49.0,"['canadian hip hop', 'canadian trap', 'hip hop', 'melodic rap', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap']"
+524,577,577,192, Thy Will Hilary Scott,Thy Will,Hillary Scott & The Scott Family,0.506,0.373,0.118,0.123,157.742,1.03e-06,0.718,56.0,[]
+525,585,585,195,Ocean eyes (astronomy edit) Billie Eilish,Ocean Eyes - Astronomyy Remix,Billie Eilish,0.481,0.594,0.0939,0.0671,144.941,0.0126,0.629,63.0,"['art pop', 'electropop', 'pop']"
+526,589,589,196,Cold water justin beiber,Cold Water (feat. Justin Bieber & MØ),Major Lazer,0.798,0.608,0.156,0.501,92.943,0.0,0.0736,61.0,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance', 'pop rap', 'tropical house']"
+527,590,590,196,Let you down justin beiber,Let Me Love You,DJ Snake,0.716,0.649,0.135,0.163,99.988,2.63e-05,0.0863,82.0,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance', 'pop rap']"
+528,592,592,197,harry potter sound tracks,Harry Potter Theme,"John Williams, Hollywood Studio Orchestra",0.232,0.131,0.0935,0.0393,178.208,0.774,0.952,42.0,"['post-romantic era', 'ukrainian classical']"
+529,596,596,198,crazy brazy asap rocky and friends,"Crazy Brazy (feat. A$AP Rocky, A$AP Twelvyy & Key!)",ASAP Mob,0.629,0.755,0.126,0.591,143.083,0.0,0.32,52.0,"['hip hop', 'rap', 'southern hip hop', 'trap', 'vapor trap']"
+530,609,609,203,O Sole Mio Pavarotti ft. Bryan Adams,'O Sole Mio - Live,Luciano Pavarotti,0.264,0.297,0.7,0.247,62.074,1.4e-05,0.943,44.0,"['classical', 'italian opera', 'italian romanticism', 'post-romantic era']"
+531,612,612,204,Stay High cover Theory of a Deadman,Stay High (cover),Theory of a Deadman,,,,,,,,,
+532,613,613,204,Ain't No Other Man But You Christina Aguilera ,Ain't No Other Man,Christina Aguilera,0.742,0.862,0.103,0.511,127.91,0.00855,0.00376,64.0,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop rap']"
+533,625,625,208,Big Body School Boy Q,Big Body,"ScHoolboy Q, Tha Dogg Pound",0.949,0.944,0.348,0.763,116.012,0.0,0.0724,44.0,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']"
+534,640,640,213,Flex your way out of here sofi de la torre,Flex Your Way Out,"Sofi de la Torre, blackbear",0.453,0.61,0.122,0.305,85.974,3.04e-06,0.469,39.0,[]
+535,646,646,215,I need a minute Imagine Dragons,I Need a Minute,Imagine Dragons,0.707,0.526,0.335,0.263,145.021,0.000506,0.000464,38.0,"['modern rock', 'pop', 'rock']"
+536,650,650,216,Mr. Greives the pixies,Mr. Grieves,Pixies,0.467,0.529,0.12,0.666,112.294,0.00309,0.0372,52.0,"['alternative rock', 'boston rock', 'modern rock', 'permanent wave', 'rock']"
+537,655,655,218,Work out jcole,Work Out,J. Cole,0.427,0.831,0.307,0.216,93.004,0.0,0.0531,81.0,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']"
+538,665,665,221,Una Mattina Ludovico Einauri,Una Mattina,Ludovico Einaudi,0.0297,0.231,0.0742,0.07,131.413,0.878,0.991,70.0,"['bow pop', 'compositional ambient', 'neo-classical']"
+539,679,679,226,Unleshed Roy woods ,Unleashed,Roy Woods,0.613,0.742,0.113,0.0996,101.988,0.0,0.00683,36.0,"['canadian contemporary r&b', 'canadian hip hop', 'pop rap', 'r&b', 'trap', 'trap soul']"
+540,681,681,227,Litty Meek Mill (Drake trash),Litty (feat. Tory Lanez),"Meek Mill, Sound M.O.B.",0.701,0.592,0.327,0.282,129.501,0.0,0.0451,63.0,"['hip hop', 'philly rap', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+541,682,682,227,Do it Myself Russ (Drake still trash),Do It Myself,Russ,0.558,0.831,0.094,0.338,141.974,0.0,0.018,60.0,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+542,683,683,227,What They Want Russ (TSwift more trash than Drake),What They Want,Russ,0.404,0.71,0.0953,0.398,139.553,0.0,0.484,73.0,"['hip hop', 'memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']"
+543,688,688,229,Ba Justin beiber,Baby,"Justin Bieber, Ludacris",0.859,0.728,0.111,0.535,65.043,0.0,0.0401,79.0,['australian hip hop']
+544,690,690,230,When I see you again Charlie Puth,See You Again (feat. Charlie Puth),Wiz Khalifa,0.481,0.689,0.0649,0.283,80.025,1.03e-06,0.369,81.0,"['pop', 'pop rock']"
+545,694,694,231,Son of man Phil Colins,Son of Man,Phil Collins,0.853,0.642,0.361,0.694,141.663,0.00035,0.041,56.0,"['mellow gold', 'rock drums', 'soft rock']"
