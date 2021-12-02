@@ -35,7 +35,7 @@ The models used include
 * Support Vector Classification
 * Support Vector Regression
 
-## preliminary_data_visualization.ipynb
+### preliminary_data_visualization.ipynb
 Contains the code for preliminary data visualization and modelling.
 
 The models used include 
