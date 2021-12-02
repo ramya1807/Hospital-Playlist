@@ -22,6 +22,7 @@ Modelled relationships include
 
 ### Visualization_and_Modelling.ipynb: 
 Contains the code for preliminary data visualization and modelling. 
+
 The preprocessing methods used include
 * MinMaxScaler()
 * StandardScaler()
