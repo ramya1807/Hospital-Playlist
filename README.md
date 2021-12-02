@@ -3,6 +3,21 @@
 ### Data_Cleaning_Master_Data.ipynb: 
 The code for cleaning and processing the master data in preparation for data visualization and modelling.
 
+### Preliminary visualization.ipynb:
+Contains the code for preliminary data visualization and classification models. For modelling, no preprocessing was used and models were Decision Trees and Ensemble Classifier.
+Visualization include
+* Distribution of hours spent listening to music mapped to health variables
+* Trauma mapped to each song variable (energy to popularity).
+* Total health mapped to each song variable (energy to popularity).
+* Total health mapped to each song variable (energy to popularity) and grouped by trauma.
+Modelled relationships include
+* map song variables to amount of music
+* map song variables to total health
+* map song variables to trauma
+* predict trauma with non-health variables (excludes health indicators, total_health, health_categorical, trauma)
+* predict total health with non-health variables
+* predict specific health variable with non-health variables
+
 ### Visualization_and_Modelling.ipynb: 
 Contains the code for preliminary data visualization and modelling. 
 For modelling, the code consists of preprocessing (with PCA(), MinMaxScaler(), and StandardScaler()) and modelling with Logistic Regression, kNN, Regression Tree, Support Vector Classification, and Support Vector Regression
