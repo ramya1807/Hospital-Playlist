@@ -5,11 +5,13 @@ The code for cleaning and processing the master data in preparation for data vis
 
 ### Preliminary visualization.ipynb:
 Contains the code for preliminary data visualization and classification models. For modelling, no preprocessing was used and models were Decision Trees and Ensemble Classifier.
+
 Visualization include
 * Distribution of hours spent listening to music mapped to health variables
 * Trauma mapped to each song variable (energy to popularity).
 * Total health mapped to each song variable (energy to popularity).
 * Total health mapped to each song variable (energy to popularity) and grouped by trauma.
+
 Modelled relationships include
 * map song variables to amount of music
 * map song variables to total health
