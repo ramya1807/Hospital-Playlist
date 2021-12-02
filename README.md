@@ -3,7 +3,7 @@
 ### Data_Cleaning_Master_Data.ipynb: 
 The code for cleaning and processing the master data in preparation for data visualization and modelling.
 
-### Preliminary visualization.ipynb:
+### Preliminary Visualization.ipynb:
 Contains the code for preliminary data visualization and classification models. For modelling, no preprocessing was used and models were Decision Trees and Ensemble Classifier.
 
 Visualizations include
