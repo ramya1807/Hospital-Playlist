@@ -22,7 +22,16 @@ Modelled relationships include
 
 ### Visualization_and_Modelling.ipynb: 
 Contains the code for preliminary data visualization and modelling. 
-For modelling, the code consists of preprocessing (with PCA(), MinMaxScaler(), and StandardScaler()) and modelling with Logistic Regression, kNN, Regression Tree, Support Vector Classification, and Support Vector Regression
+The preprocessing methods used include
+* MinMaxScaler()
+* StandardScaler()
+* PCA()
+The models used include 
+* Logistic Regression
+* kNN
+* Regression Tree
+* Support Vector Classification
+* Support Vector Regression
 
 ### Preprocessing, Preliminary Modeling and Spotipy.ipynb:
 Contains the code for preliminary data visualization for individual variables and in relation to other variables, and modelling where binary genre information has not yet been integrated into the dataset. Also contains the code for generating the Spotify id and preview url for 30s Spotify previews of all tracks using Spotipy. The urllib package was then used to retrieve the mp3 files of all the songs with preview urls present.
