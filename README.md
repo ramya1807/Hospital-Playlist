@@ -7,5 +7,9 @@ The code for cleaning and processing the master data in preparation for data vis
 Contains the code for preliminary data visualization and modelling. 
 For modelling, the code consists of preprocessing (with PCA(), MinMaxScaler(), and StandardScaler()) and modelling with Logistic Regression, kNN, Regression Tree, Support Vector Classification, and Support Vector Regression
 
+### Preprocessing and Modeling with Genres
+Contains the code for secondary data visualization and modelling where binary genre information has been integrated into the dataset. 
+For modelling,the code consists of preprocessing (with PCA(), MinMaxScaler(), and StandardScaler()) and modelling with Decision Trees, Ensemble Classifier, Ridge Regression and Lasso Regression to predict trauma, total health and specific mental health indicators.
+
 ### model_eval.ipynb: 
 Contains code to clean data in order to visualize the models for each target. Finds the best preprocessing step for classification and regression model for each target. 
