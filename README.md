@@ -26,6 +26,7 @@ The preprocessing methods used include
 * MinMaxScaler()
 * StandardScaler()
 * PCA()
+
 The models used include 
 * Logistic Regression
 * kNN
