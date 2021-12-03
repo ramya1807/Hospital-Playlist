@@ -39,11 +39,8 @@ The models used include
 Contains the code for preliminary data visualization and modelling.
 
 The models used include 
-* Logistic Regression
-* kNN
-* Regression Tree
-* Support Vector Classification
-* Support Vector Regression
+* Naive Bayes
+* Multiple Linear Regression
 
 ### Preprocessing, Preliminary Modeling and Spotipy.ipynb:
 Contains the code for preliminary data visualization for individual variables and in relation to other variables, and modelling where binary genre information has not yet been integrated into the dataset. Also contains the code for generating the Spotify id and preview url for 30s Spotify previews of all tracks using Spotipy. The urllib package was then used to retrieve the mp3 files of all the songs with preview urls present.
