@@ -53,7 +53,7 @@ Contains the code for song data collection, before merging with preliminary song
 Contains the code for secondary data visualization and modelling where binary genre information has been integrated into the dataset. 
 For modelling,the code consists of preprocessing (with PCA(), MinMaxScaler(), and StandardScaler()) and modelling with Decision Trees, Ensemble Classifier, Ridge Regression and Lasso Regression to predict trauma, total health and specific mental health indicators.
 
-### Mel_Spectrogram_and_CNN.ipynb
+### Mel_Spectrograms_and_CNN.ipynb
 Contains the code for tertiary data modelling where mp3 files were converted to wav files using pydub, that were then used to generate Mel Spectrogams using Librosa. The spectrograms were then sorted based on their classifications before separated using splitfolders into their training and validation sets (70%-30%). The images were then used to perform CNN using Resnet50 to predict trauma and specific mental health indicators.
 
 ### models_evaluation.ipynb: 
